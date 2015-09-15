@@ -1,0 +1,1164 @@
+".id","login","location","role","membership","company","bbc","nresults","country","locality","address","lat","lon"
+"Archive","nevali","Glasgow, Scotland","contributors","Archive","BBC Archive Development",TRUE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Archive","ajtucker","Birmingham, UK","contributors","Archive",NA,FALSE,1,"United Kingdom","Birmingham","Birmingham, West Midlands, UK",52.486243,-1.890401
+"Archive","laalto","Oulu, Finland","contributors","Archive",NA,FALSE,1,"Finland","Oulu","90100 Oulu, Finland",65.0126148,25.4714526
+"Archive","jackolantern","Brooklyn, NY","contributors","Archive",NA,FALSE,1,"United States","New York","Brooklyn, NY, USA",40.6781784,-73.9441579
+"Archive","zoggy","France","contributors","Archive","",FALSE,1,"France","N/A","France",46.227638,2.213749
+"Archive","njh","London, UK","contributors","Archive","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Archive","dajobe","San Francisco","contributors","Archive","Rackspace",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"News","mattsenior","UK","contributors","News",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","boldfacedesign","United Kingdom","contributors","News","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","jamesryanbell","Leeds, UK","contributors","News","",FALSE,2,"United Kingdom","Leeds","Leeds, West Yorkshire, UK",53.8007554,-1.5490774
+"News","aripalo","Finland","contributors","News",NA,FALSE,1,"Finland","N/A","Finland",61.92411,25.748151
+"News","malengrin","Paris","contributors","News","Vestiaire Collective",FALSE,5,"France","Paris","Paris, France",48.856614,2.3522219
+"News","peruukki","Berlin, Germany","contributors","News","",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"News","rory-geoghegan-ecometrica","Montreal, Canada","contributors","News","Ecometrica",FALSE,1,"Canada","Montreal","Montreal, QC, Canada",45.5016889,-73.567256
+"News","timabell","UK","contributors","News",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","jeremytarling","London, UK","contributors","News","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","matt-crazypanda","Manchester, UK","contributors","News","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"News","rapaul","Auckland, New Zealand","contributors","News",NA,FALSE,2,"New Zealand","Auckland","Auckland, New Zealand",-36.8484597,174.7633315
+"News","newLoki","Berlin, Germany","contributors","News","Project A Ventures GmbH & Co. KG",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"News","swestcott","UK","contributors","News",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","ambirag","London, UK","contributors","News","Expedia",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","DaveBlooman","London, UK","contributors","News","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","doryphores","London, UK","contributors","News","Simply Business",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","plukevdh","Bluffton, SC","contributors","News","Articulate",FALSE,1,"United States","Bluffton","Bluffton, SC, USA",32.2371465,-80.8603868
+"News","stevenjack","London, UK","contributors","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","AndrewVos","London, UK","contributors","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","lewisnyman","Zurich","contributors","News","WunderRoot",FALSE,1,"Switzerland","Zurich","Zurich, Switzerland",47.3686498,8.5391825
+"News","matiassingers","Singapore","contributors","News","",FALSE,1,"Singapore","N/A","Singapore",1.352083,103.819836
+"News","nikai3d","Kitzbühel, Austria","contributors","News",NA,FALSE,1,"Austria","Kitzbuhel","Kitzbuhel, Austria",47.44499,12.39143
+"News","reggieb","Worcestershire, United Kingdom","contributors","News","Undervale Ltd",FALSE,1,"United Kingdom","N/A","Worcestershire, UK",52.2545225,-2.2668382
+"News","tiemevanveen","Netherlands","contributors","News","Momkai",FALSE,1,"Netherlands","N/A","Netherlands",52.132633,5.291266
+"News","paracycle","Istanbul, Turkey","contributors","News","Myplanet",FALSE,1,"Turkey","Istanbul","Istanbul, İstanbul, Turkey",41.0082376,28.9783589
+"News","nlisgo","Norwich, UK","contributors","News","eLife Sciences",FALSE,2,"United Kingdom","Norwich","Norwich Airport Ltd, Norwich International Airport, Norwich, Norfolk NR6 6JA, UK",52.6693842,1.2784251
+"News","xiwcx","Washington, DC","contributors","News","National Geographic",FALSE,1,"United States","Washington","Washington, DC, USA",38.9071923,-77.0368707
+"News","pmuir","Edinburgh, Scotland","contributors","News","Red Hat, Inc.",FALSE,1,"United Kingdom","Edinburgh","Edinburgh, City of Edinburgh, UK",55.953252,-3.188267
+"News","jasonkarns","Columbus, Ohio","contributors","News","Test Double",FALSE,1,"United States","Columbus","Columbus, OH, USA",39.9611755,-82.9987942
+"News","kenoir","London, UK","contributors","News","The Guardian",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","rupl","Freiburg, Deutschland","contributors","News","Four Kitchens",FALSE,1,"Germany","Freiburg","Freiburg, Germany",47.9990077,7.8421043
+"News","bbttxu","North Texas (really central-eastern Texas)","contributors","News","Black Bear Theory",FALSE,1,"United States","N/A","Texas, USA",31.9685988,-99.9018131
+"News","commuterjoy","London, UK","contributors","News","Guardian",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","rkh","Berlin","contributors","News","Travis CI",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"News","Kami","Ljubljana, Slovenia","contributors","News","StackStorm",FALSE,1,"Slovenia","Ljubljana","Ljubljana, Slovenia",46.0569465,14.5057515
+"News","thingsinjars","Berlin","contributors","News","The Angry Robot Zombie Factory",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"News","AdenFraser","Ipswich, UK","contributors","News","Jacob Bailey Ltd",FALSE,1,"United Kingdom","Ipswich","Ipswich, Suffolk, UK",52.056736,1.14822
+"News","JackMarshallHD","Brighton","contributors","News","Brandwatch",FALSE,5,"United Kingdom","Brighton","Brighton, The City of Brighton and Hove, UK",50.82253,-0.137163
+"News","jaredly","Provo, UT","contributors","News","Brigham Young University",FALSE,1,"United States","Provo","Provo, UT, USA",40.2338438,-111.6585337
+"News","i-like-robots","London, UK","contributors","News","the FT",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","oncletom","London, United Kingdom","contributors","News","BBC R&D",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","joewillnyc","New York, NY","contributors","News","Aol",FALSE,1,"United States","New York","New York, NY, USA",40.7127837,-74.0059413
+"News","stephenplusplus","Michigan","contributors","News","TasteJS, Yeoman",FALSE,1,"United States","N/A","Michigan, USA",44.3148443,-85.6023643
+"News","omgmog","Oxford, England","contributors","News","Marmalade & Jam",FALSE,1,"United Kingdom","Oxford","Oxford, Oxford, UK",51.7520209,-1.2577263
+"News","inetbug","Russia, Togliatti","contributors","News","",FALSE,1,"Russia","Tolyatti","Tolyatti, Samara Oblast, Russia",53.5086002,49.4198344
+"News","feedmypixel","St Albans & London","contributors","News","feedMyPixel Ltd.",FALSE,1,"United Kingdom","St Albans","St Albans, St Albans, Hertfordshire, UK",51.752725,-0.339436
+"News","BPScott","London, UK","contributors","News","BBC Future Media",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","jonlow","Adelaide","contributors","News","Jon Low",FALSE,2,"Australia","Adelaide","Adelaide SA, Australia",-34.9286212,138.5999594
+"News","joshk","Berlin, Germany","contributors","News","Travis CI",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"News","kkirsche","Herndon, VA","contributors","News","Verizon",FALSE,1,"United States","Herndon","Herndon, VA, USA",38.9695545,-77.3860976
+"News","addyosmani","London, England","contributors","News","Google",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","benjambles","Gravesend","contributors","News","Time Out",FALSE,1,"United Kingdom","Gravesend","Gravesend, Kent, UK",51.441884,0.370759
+"News","marcinwenger","Southampton, UK","contributors","News","",FALSE,1,"United Kingdom","Southampton","Southampton, UK",50.9097004,-1.4043509
+"News","revett","London, UK","contributors","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","darnould","London, UK","contributors","News","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","Guntrisoft","London, UK","contributors","News","Guntrisoft Ltd",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","maleghast","Sevenoaks, UK","contributors","News","ScholaNoctis Ltd.",FALSE,1,"United Kingdom","Sevenoaks","Sevenoaks, Sevenoaks, Kent, UK",51.27241,0.190898
+"News","kojiwakayama","Stockholm, Sweden","contributors","News","",FALSE,1,"Sweden","Stockholm","Stockholm, Sweden",59.3293235,18.0685808
+"News","pimterry","London, UK","contributors","News","Softwire",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","tmaslen","Corby","contributors","News","BBC",TRUE,1,"United Kingdom","Corby","Corby, Northamptonshire, UK",52.4922983,-0.6842333
+"News","dgm34","London, UK","contributors","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","stefano-belloro","London, UK","contributors","News","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","Mark-JM","London, UK","contributors","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","pgchamberlin","London, UK","contributors","News",NA,TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","ajohnstone","London, UK","contributors","News","Photobox",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","basilesimon","London, UK","contributors","News","BBC News Lab",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","karls","London, UK","contributors","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","jcobbctv","Media City/Salford","contributors","News","BBC",FALSE,4,"United Kingdom","N/A","Media City Footbridge, Salford M50 2EQ, UK",53.4712301,-2.3001096
+"News","zelig","London, UK","contributors","News","Übergeek Unlimited - freelance software engineer, data and information system architect",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","Melinka","London, UK","contributors","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","jlevesy","San Francisco","contributors","News","Upfluence",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"News","iaincollins","London, UK","contributors","News","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","fastdivision","Santa Monica, CA","contributors","News","Divshot",FALSE,1,"United States","Santa Monica","Santa Monica, CA, USA",34.0194543,-118.4911912
+"News","Cgg","Paris, France","contributors","News","Aldebaran",FALSE,2,"France","Paris","Paris, France",48.856614,2.3522219
+"News","jacqui","London, UK","contributors","News","BBC News Labs / BBC News",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","dhinus","London, United Kingdom","contributors","News","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","mbleigh","Los Angeles, CA","contributors","News","Divshot",FALSE,1,"United States","Los Angeles","Los Angeles, CA, USA",34.0522342,-118.2436849
+"News","trumbitta","Cagliari, IT","contributors","News","Inpeco S.p.a.",FALSE,1,"Italy","Cagliari","Cagliari, Italy",39.2238411,9.1216613
+"News","alexnorton","London, UK","contributors","News","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","sytpp","London, UK","contributors","News","Hoodiejournalismus",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","atmd83","Yorkshire, England","contributors","News",NA,FALSE,30,"United Kingdom","Rochdale","Yorkshire Street, Rochdale, Rochdale OL16 2DW, UK",53.6204416,-2.1525678
+"News","completedespair","London, NW1","contributors","News","BBC",FALSE,1,"United Kingdom","London","London NW1, UK",51.5306872,-0.146932
+"News","eins78","Zurich","contributors","News","ZHdK Zurich University of the Arts",FALSE,1,"Switzerland","Zurich","Zurich, Switzerland",47.3686498,8.5391825
+"News","ianarundale","London/Manchester","contributors","News","British Broadcasting Corporation",TRUE,1,"United States","London","Manchester Road, London, KY, USA",37.0823094,-83.943505
+"News","rosario","London, UK","contributors","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","timcowlishaw","London, UK","contributors","News","Itinerant software and data wonk-for-hire.",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","jrcryer","Cardiff UK","contributors","News","BBC",TRUE,1,"United Kingdom","Cardiff","Cardiff, Cardiff, UK",51.481581,-3.17909
+"News","chemsoc","Maidstone","contributors","News","GForces",FALSE,1,"United Kingdom","Maidstone","Maidstone, Maidstone, Kent, UK",51.270363,0.522699
+"News","jameshd","Chester","contributors","News","",FALSE,6,"United Kingdom","Chester","Chester, Chester, Cheshire West and Chester, UK",53.193392,-2.893075
+"News","mackstar","Leeds, UK","contributors","News",NA,FALSE,2,"United Kingdom","Leeds","Leeds, West Yorkshire, UK",53.8007554,-1.5490774
+"News","fewstera","London, UK","contributors","News","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","chelozzz","London, UK","contributors","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","ChrisBAshton","Aberystwyth","contributors","News","",FALSE,1,"United Kingdom","Aberystwyth","Aberystwyth, Ceredigion, UK",52.415303,-4.08292
+"News","bongoYo","United Kingdom","contributors","News","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","blackchacal","Almada, Portugal","contributors","News","Waterstone Consulting",FALSE,1,"Portugal","Almada","Almada, Portugal",38.6765238,-9.1651047
+"News","Tarqwyn","England, South Coast","contributors","News","BBC News",FALSE,9,"United Kingdom","Weymouth","South Coast Leather, 72 The Esplanade, Weymouth, Dorset DT4 7AA, UK",50.6120539,-2.4540903
+"Production","AndrewVos","London, UK","contributors","Production","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","commuterjoy","London, UK","contributors","Production","Guardian",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","sprysoft","Cardiff, Wales","contributors","Production","SprySoft Ltd",FALSE,1,"United Kingdom","Cardiff","Cardiff, Cardiff, UK",51.481581,-3.17909
+"Production","anthonygreen","London, UK","contributors","Production","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","steliospsarras","Athens, GR / London, UK","contributors","Production","",FALSE,1,"United Kingdom","London","Greece: Athens, London WC1B, UK",51.5192706,-0.1280978
+"Production","stuartrivero","UK","contributors","Production","Think To Be Ltd",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","supermethod","London, UK","contributors","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","robinjmurphy","London, UK","contributors","Production","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","mrwillihog","London, UK","contributors","Production","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","jak","UK","contributors","Production","MOO",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","middric","Buckinghamshire","contributors","Production","Witchert",FALSE,1,"United Kingdom","N/A","Buckinghamshire, UK",51.8072204,-0.8127664
+"Production","cnorthwood","Manchester, UK","contributors","Production","BBC",TRUE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","njh","London, UK","contributors","Production","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","paulccarey","Liverpool/Manchester, UK","contributors","Production","Source Lab",FALSE,1,"United Kingdom","Eccles","Liverpool Road, Eccles, Manchester M30, UK",53.4725175,-2.379646
+"Production","jrmhaig","UK","contributors","Production","BBC",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","jimlevett","Bristol, UK","contributors","Production","Kite",FALSE,1,"United Kingdom","Bristol","Bristol, City of Bristol, UK",51.454513,-2.58791
+"Production","stuartmemo","Glasgow, Scotland","contributors","Production","",FALSE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Production","cathawker","Glasgow","contributors","Production","BBC",FALSE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Production","geoffadams","UK","contributors","Production","BBC",TRUE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","randombitsUK","Glasgow","contributors","Production","BBC",FALSE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Production","weejames","Glasgow","contributors","Production","BBC",TRUE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Production","samhurst","London, UK","contributors","Production","BBC R&D",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","davidjwbbc","MediaCityUK, Salford, England","contributors","Production","British Broadcasting Corporation",TRUE,2,"United Kingdom","Salford","The Greenhouse, MediaCityUK, 111 Broadway, Salford, Salford M50 2EQ, UK",53.4731054,-2.2971725
+"Production","james075","Paris","contributors","Production","",FALSE,5,"France","Paris","Paris, France",48.856614,2.3522219
+"Production","dieppe","Paris, France","contributors","Production","Jnuine",FALSE,2,"France","Paris","Paris, France",48.856614,2.3522219
+"Production","deerawan","Jakarta, Indonesia","contributors","Production","",FALSE,1,"Indonesia","Jakarta","Jakarta, Special Capital Region of Jakarta, Indonesia",-6.2087634,106.845599
+"Production","matt-hammond-bbc","London, United Kingdom","contributors","Production","British Broadcasting Corporation",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","shaunbent","Preston, United Kingdom","contributors","Production","BBC",TRUE,1,"United Kingdom","Preston","Preston, Preston, Lancashire, UK",53.763201,-2.70309
+"Production","tspear","Dorking, Surrey.","contributors","Production","Freelance.",FALSE,1,"United Kingdom","Dorking","Dorking, Dorking, Surrey, UK",51.232202,-0.332378
+"Production","danielgonzalezbbc","London, UK","contributors","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","jerrykramskoy","BBC R&D South Labs","contributors","Production","BBC",FALSE,30,"Egypt","N/A","B.b.c, El-Salam Sharkeya, Qism El-Salam, Cairo Governorate, Egypt",30.1624311,31.4238019
+"Production","stuarthicks","London, UK","contributors","Production",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","micmath","UK","contributors","Production","BBC",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","rjlee","Leeds","contributors","Production","http://www.bbc.co.uk",FALSE,2,"United Kingdom","Leeds","Leeds, West Yorkshire, UK",53.8007554,-1.5490774
+"Production","clementallen","London, UK","contributors","Production","Accenture",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","BPScott","London, UK","contributors","Production","BBC Future Media",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","keeran","Cardiff, Wales, UK","contributors","Production","GitHub",FALSE,2,"United Kingdom","Rhoose","Cardiff Airport (CWL), Rhoose, Cardiff, Vale of Glamorgan CF62 3BD, UK",51.396667,-3.343333
+"Production","markturner","Cardiff","contributors","Production","BBC",FALSE,1,"United Kingdom","Cardiff","Cardiff, Cardiff, UK",51.481581,-3.17909
+"Production","apiadventures","Salford","contributors","Production","BBC",FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"Production","kedar2014","Pune,India","contributors","Production","",FALSE,1,"India","Pune","Pune, Maharashtra, India",18.5204303,73.8567437
+"Production","ianarundale","London/Manchester","contributors","Production","British Broadcasting Corporation",TRUE,1,"United States","London","Manchester Road, London, KY, USA",37.0823094,-83.943505
+"Production","bastuijnman","Amsterdam","contributors","Production","24i",FALSE,1,"Netherlands","Amsterdam","Amsterdam, Netherlands",52.3702157,4.8951679
+"Production","oncletom","London, United Kingdom","contributors","Production","BBC R&D",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","jcobbctv","Media City/Salford","contributors","Production","BBC",FALSE,4,"United Kingdom","N/A","Media City Footbridge, Salford M50 2EQ, UK",53.4712301,-2.3001096
+"Production","tsadlerBBC","Greater Manchester","contributors","Production","BBC",FALSE,1,"United Kingdom","N/A","Greater Manchester, UK",53.4575955,-2.1578377
+"Production","atmd83","Yorkshire, England","contributors","Production",NA,FALSE,30,"United Kingdom","Rochdale","Yorkshire Street, Rochdale, Rochdale OL16 2DW, UK",53.6204416,-2.1525678
+"Production","AlexChesters","Warrington","contributors","Production","BBC",FALSE,4,"United Kingdom","Warrington","Warrington, Warrington, UK",53.3900441,-2.5969501
+"Production","watsond88","MediaCity UK","contributors","Production","BBC",FALSE,2,"United Kingdom","Salford","The Greenhouse, MediaCityUK, 111 Broadway, Salford, Salford M50 2EQ, UK",53.4731054,-2.2971725
+"Production","chrisn","London, UK","contributors","Production",NA,TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","johnbeech","Manchester, England","contributors","Production","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","landeiro","Lisbon","contributors","Production","RTP - Portuguese Public TV/Radio Broadcaster",FALSE,1,"Portugal","Lisbon","Lisbon, Portugal",38.7222524,-9.1393366
+"Production","mlin6436","United Kingdom","contributors","Production","",TRUE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","mackstar","Leeds, UK","contributors","Production",NA,FALSE,2,"United Kingdom","Leeds","Leeds, West Yorkshire, UK",53.8007554,-1.5490774
+"Production","tal-is-man","BBC Digital Television Platform","contributors","Production","British Broadcasting Corporation",FALSE,0,NA,NA,NA,NA,NA
+"Production","subsidel","Manchester, UK","contributors","Production","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","tgandrews","Manchester, UK","contributors","Production","",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","ryanwaudby","Marple, United Kingdom","contributors","Production","BBC",FALSE,1,"United Kingdom","Marple","Marple, UK",53.397349,-2.061683
+"Production","peterthompson","United Kingdom","contributors","Production","Arqiva",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"R&D","oncletom","London, United Kingdom","contributors","R&D","BBC R&D",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","hagenw","Berlin","contributors","R&D","TU Berlin",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"R&D","pixelblend","London, UK","contributors","R&D","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","moustaki","San Francisco Bay Area","contributors","R&D","Netflix, CA",TRUE,2,"United States","N/A","San Francisco Bay Area, CA, USA",37.9994669,-122.174605
+"R&D","chrispike-bbc","United Kingdom","contributors","R&D","BBC Research & Development",TRUE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"R&D","tomjnixon","Manchester, UK","contributors","R&D","BBC R&D",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"R&D","JamesHarrison","Oxfordshire, UK","contributors","R&D","BBC Research and Development",TRUE,1,"United Kingdom","N/A","Oxfordshire, UK",51.7612056,-1.2464674
+"R&D","chrislo","London, UK","contributors","R&D","FutureLearn",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","mgeier","Rostock/Berlin","contributors","R&D",NA,FALSE,1,"Germany","Bernau bei Berlin","OBZ-Bildungsgesellschaft für Eberswalde/Rostock mbH, Schönfelder Weg 2331, 16321 Bernau bei Berlin, Germany",52.6795401,13.6094501
+"R&D","chrisn","London, UK","contributors","R&D",NA,TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","bitwit","Toronto, Canada","contributors","R&D","",FALSE,2,"Canada","Toronto","Toronto, ON, Canada",43.653226,-79.3831843
+"R&D","yosiat","Tel Aviv, Israel","contributors","R&D","",FALSE,1,"Israel","Tel Aviv-Yafo","Tel Aviv-Yafo, Israel",32.0852999,34.7817676
+"R&D","chrisbaume","London, UK","contributors","R&D","BBC Research and Development",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","cisnky","London, UK","contributors","R&D","BBC Research and Development IRFS",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","andrewn","London, UK","contributors","R&D",NA,TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","ziggythehamster","Richmond, CA, US","contributors","R&D","The Ignition Project",FALSE,1,"United States","Richmond","Richmond, CA, USA",37.9357576,-122.3477486
+"R&D","chainlink","Toronto","contributors","R&D","",FALSE,2,"Canada","Toronto","Toronto, ON, Canada",43.653226,-79.3831843
+"R&D","jonkoops","Amsterdam, The Netherlands","contributors","R&D","FRONTISME",FALSE,1,"Netherlands","Amsterdam","Amsterdam, Netherlands",52.3702157,4.8951679
+"R&D","rosswilson","MediaCity UK, Salford","contributors","R&D","BBC",TRUE,4,"United Kingdom","Salford","Unit 3 Central Park, Holyrood Nursery Media City, Ohio Avenue, Salford, Lancashire M50 2GT, UK",53.475625,-2.291539
+"R&D","a1k0n","Milwaukee, WI Area","contributors","R&D","",FALSE,16,"United States","Milwaukee","Milwaukee Area Technical College - MATC Education Center at Walker Square, 816 West National Avenue, Milwaukee, WI 53204, USA",43.0236295,-87.9219961
+"R&D","whomwah","London, Uk","contributors","R&D","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","stephenjolly","UK","contributors","R&D","BBC R&D",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"R&D","matt-hammond-bbc","London, United Kingdom","contributors","R&D","British Broadcasting Corporation",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","neildavis","London, UK","contributors","R&D","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","nightscape","7","contributors","R&D","crealytics GmbH",FALSE,1,"Iran","N/A","Fars, Iran",29.1043813,53.045893
+"R&D","seanohalpin","London, UK","contributors","R&D","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","dustinbrownman","Portland, OR","contributors","R&D","",FALSE,1,"United States","Portland","Portland, OR, USA",45.5230622,-122.6764816
+"R&D","spors","Rostock","contributors","R&D","Universität Rostock",FALSE,1,"Germany","Rostock","Rostock, Germany",54.0924406,12.0991466
+"R&D","Ruenzuo","Hamburg, Germany","contributors","R&D","",FALSE,1,"Germany","Hamburg","Hamburg, Germany",53.5510846,9.9936818
+"R&D","eavgerinos","Athens, Greece","contributors","R&D","Skroutz S.A.",FALSE,1,"Greece","Athens","Athens, Greece",37.983917,23.7293599
+"R&D","metade","London, UK","contributors","R&D",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","jof","San Francisco","contributors","R&D","",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"R&D","FauxFaux","Cricklewood, London, UK","contributors","R&D",NA,FALSE,2,"United Kingdom","London","Cricklewood, London NW2, UK",51.555684,-0.21396
+"R&D","matth","United Kingdom","contributors","R&D","BBC",TRUE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"R&D","gareth","Guildford, UK","contributors","R&D","BBC R&D",FALSE,1,"United Kingdom","Guildford","Guildford, Guildford, Surrey, UK",51.23622,-0.570409
+"Mixed","oncletom","London, United Kingdom","contributors","Mixed","BBC R&D",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","cnorthwood","Manchester, UK","contributors","Mixed","BBC",TRUE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Mixed","Mamady","Las Vegas, USA","contributors","Mixed","Modern Homes of Nevada",FALSE,3,"United States","Las Vegas","Las Vegas, NV, USA",36.1699412,-115.1398296
+"Mixed","myersnick","London, UK","contributors","Mixed","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","robinjmurphy","London, UK","contributors","Mixed","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","craigtaub","London, UK","contributors","Mixed",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","middric","Buckinghamshire","contributors","Mixed","Witchert",FALSE,1,"United Kingdom","N/A","Buckinghamshire, UK",51.8072204,-0.8127664
+"Mixed","mrwillihog","London, UK","contributors","Mixed","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","charlier","UK","contributors","Mixed",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Mixed","joshrp","London, UK","contributors","Mixed","JustPark",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","miguelgonz","London, UK","contributors","Mixed","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Archive","cgueret","Amsterdam","forker","Archive","DANS",FALSE,1,"Netherlands","Amsterdam","Amsterdam, Netherlands",52.3702157,4.8951679
+"Archive","ModusCreateOrg","Reston, VA","forker","Archive",NA,FALSE,1,"United States","Reston","Reston, VA, USA",38.9586307,-77.3570028
+"News","iaincollins","London, UK","forker","News","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","OdinsHat","Birmingham, UK","forker","News","",FALSE,1,"United Kingdom","Birmingham","Birmingham, West Midlands, UK",52.486243,-1.890401
+"News","pimterry","London, UK","forker","News","Softwire",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","samgeorge","Bath, UK","forker","News","",FALSE,1,"United Kingdom","Bath","Bath, Bath, Bath and North East Somerset, UK",51.375801,-2.3599039
+"News","marcinbejm","San Francisco, CA","forker","News",NA,FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"News","tbusser","Netherlands","forker","News","",FALSE,1,"Netherlands","N/A","Netherlands",52.132633,5.291266
+"News","murphyca","Boston","forker","News",NA,FALSE,6,"United States","Boston","Boston, MA, USA",42.3600825,-71.0588801
+"News","nikai3d","Kitzbühel, Austria","forker","News",NA,FALSE,1,"Austria","Kitzbuhel","Kitzbuhel, Austria",47.44499,12.39143
+"News","propcom","Rugby, Warwickshire, UK","forker","News",NA,FALSE,1,"United Kingdom","Rugby","Rugby, Rugby, Warwickshire, UK",52.370878,-1.265032
+"News","suranartniamcome","Thailand","forker","News",NA,FALSE,1,"Thailand","N/A","Thailand",15.870032,100.992541
+"News","umanda","Sri Lamka","forker","News",NA,FALSE,1,"Sri Lanka","N/A","Sri Lanka",7.873054,80.771797
+"News","bbc-sport","Quay House, MediaCityUK, Salford","forker","News",NA,FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"News","VarinderS","New Zealand","forker","News",NA,FALSE,1,"New Zealand","N/A","New Zealand",-40.900557,174.885971
+"News","hellopath","Paris, France","forker","News",NA,FALSE,2,"France","Paris","Paris, France",48.856614,2.3522219
+"News","natgeo","Washington, DC","forker","News",NA,FALSE,1,"United States","Washington","Washington, DC, USA",38.9071923,-77.0368707
+"News","nettan20","Hungary","forker","News","",FALSE,1,"Hungary","N/A","Hungary",47.162494,19.503304
+"News","emilianox","Apostoles, Misiones, Argentina","forker","News","Freelance",FALSE,1,"Argentina","Apóstoles","Apóstoles, Misiones Province, Argentina",-27.9143324,-55.7549223
+"News","mindplay-dk","Denmark","forker","News","Fynske Medier",FALSE,1,"Denmark","N/A","Denmark",56.26392,9.501785
+"News","boseymour","Oxford, UK","forker","News","",FALSE,1,"United Kingdom","Oxford","Oxford, Oxford, UK",51.7520209,-1.2577263
+"News","torreslucas13","Rio de Janeiro, Brasil","forker","News","",FALSE,3,"Brazil","Rio de Janeiro","Rio de Janeiro - State of Rio de Janeiro, Brazil",-22.9068467,-43.1728965
+"News","feedmypixel","St Albans & London","forker","News","feedMyPixel Ltd.",FALSE,1,"United Kingdom","St Albans","St Albans, St Albans, Hertfordshire, UK",51.752725,-0.339436
+"News","natos","Amsterdam","forker","News","Three Leaves",FALSE,1,"Netherlands","Amsterdam","Amsterdam, Netherlands",52.3702157,4.8951679
+"News","dimitrianoudi","London, UK","forker","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","albertfdp","Copenhagen, Denmark","forker","News","Podio, Citrix",FALSE,2,"Denmark","Copenhagen","Copenhagen, Denmark",55.6760968,12.5683371
+"News","rotsuya","Hayama, Kanagawa, Japan","forker","News","NTT Communications",FALSE,1,"Japan","Hayama","Hayama, Miura District, Kanagawa Prefecture, Japan",35.2720886,139.5861995
+"News","josephtan","Sydney","forker","News","",FALSE,2,"Australia","Sydney","Sydney NSW, Australia",-33.8674869,151.2069902
+"News","inetbug","Russia, Togliatti","forker","News","",FALSE,1,"Russia","Tolyatti","Tolyatti, Samara Oblast, Russia",53.5086002,49.4198344
+"News","stevenjack","London, UK","forker","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","Mark-JM","London, UK","forker","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","wenche","Bergen, Norway","forker","News","Miles",FALSE,1,"Norway","Bergen","Bergen, Norway",60.3912628,5.3220544
+"News","icewaters","china","forker","News","",FALSE,1,"China","N/A","China",35.86166,104.195397
+"News","benjambles","Gravesend","forker","News","Time Out",FALSE,1,"United Kingdom","Gravesend","Gravesend, Kent, UK",51.441884,0.370759
+"News","ultranaut","United States","forker","News","",FALSE,1,"United States","N/A","United States",37.09024,-95.712891
+"News","ajohnstone","London, UK","forker","News","Photobox",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","slice-beans","Manchester","forker","News","RetroFuzz",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"News","samaybhavsar","Ahmedabad","forker","News","",FALSE,1,"India","Ahmedabad","Ahmedabad, Gujarat, India",23.022505,72.5713621
+"News","ulilu","Berlin, Germany","forker","News","Kontinui GbR",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"News","tdwesten","Amsterdam","forker","News","Internetbureau Haboes",FALSE,1,"Netherlands","Amsterdam","Amsterdam, Netherlands",52.3702157,4.8951679
+"News","phamtrisi","United States","forker","News","LinkedIn",FALSE,1,"United States","N/A","United States",37.09024,-95.712891
+"News","ssbalakumar","coimbatore","forker","News","tekardia",FALSE,1,"India","Coimbatore","Coimbatore, Tamil Nadu, India",11.0168445,76.9558321
+"News","codeforfood","Los Angeles, ca","forker","News","Lab Coat Media",FALSE,1,"United States","Los Angeles","Los Angeles, CA, USA",34.0522342,-118.2436849
+"News","teknotica","London, UK","forker","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","denisonluz","London, UK","forker","News","Digital Luz Ltd",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","AndrewJHart","Huntington, Wv.","forker","News","Reward Style",FALSE,1,"United States","Huntington","Huntington, WV, USA",38.4192496,-82.445154
+"News","bradsturtevant","Orange County, California area","forker","News","Sturdyworks",FALSE,15,"United States","Fullerton","Study Area, Fullerton, CA 92832, USA",33.8705329,-117.9305067
+"News","abpin","La Jolla, CA","forker","News","HackerOUT",FALSE,1,"United States","San Diego","La Jolla, San Diego, CA, USA",32.8328112,-117.2712717
+"News","KelvynCarbone","Porto Alegre","forker","News","",FALSE,1,"Brazil","Porto Alegre","Porto Alegre - RS, Brazil",-30.0346471,-51.2176584
+"News","djowett","UK","forker","News","Jowett Enterprises Ltd",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","edypang","Indonesia","forker","News","",FALSE,1,"Indonesia","N/A","Indonesia",-0.789275,113.921327
+"News","aniruddhabarapatre","Miami, FL","forker","News","",FALSE,1,"United States","Miami","Miami, FL, USA",25.7616798,-80.1917902
+"News","mauricionobrega","São Paulo / Brazil","forker","News","Walmart.com",FALSE,6,"Brazil","São Paulo","São Paulo - State of São Paulo, Brazil",-23.5505199,-46.6333094
+"News","BPScott","London, UK","forker","News","BBC Future Media",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","minnur","San Francisco, CA","forker","News","",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"News","tung-nguyen","Ha Noi","forker","News","VSOFT Solution",FALSE,1,"Vietnam","Hanoi","Hanoi, Hoàn Kiếm, Hanoi, Vietnam",21.0277644,105.8341598
+"News","banti124","Gurgaon","forker","News","Order Chhotu",FALSE,1,"India","Gurgaon","Gurgaon, Haryana, India",28.4594965,77.0266383
+"News","gabrielflorit","Boston, MA","forker","News","The Boston Globe",FALSE,1,"United States","Boston","Boston, MA, USA",42.3600825,-71.0588801
+"News","rakesh-mohanta","Bhubaneswar","forker","News","Tatwa Technologies Ltd.",FALSE,1,"India","Bhubaneshwar","Bhubaneshwar, Odisha, India",20.2960587,85.8245398
+"News","marcinwenger","Southampton, UK","forker","News","",FALSE,1,"United Kingdom","Southampton","Southampton, UK",50.9097004,-1.4043509
+"News","joliment","Tricity, Poland","forker","News","",FALSE,1,"Poland","Tricity","Tricity, Poland",54.433333,18.55
+"News","geraldvillorente","Philippines","forker","News","X-Team",FALSE,1,"Philippines","N/A","Philippines",12.879721,121.774017
+"News","mandlapower","South Africa","forker","News","",FALSE,1,"South Africa","N/A","South Africa",-30.559482,22.937506
+"News","yashilanka","Colombo","forker","News","Yashi Digital Agency",FALSE,1,"Sri Lanka","Colombo","Colombo, Sri Lanka",6.9270786,79.861243
+"News","LessonPlanet","Santa Barbara","forker","News",NA,FALSE,1,"United States","Santa Barbara","Santa Barbara, CA, USA",34.4208305,-119.6981901
+"News","ambirag","London, UK","forker","News","Expedia",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","meza","London, United Kingdom","forker","News","Stateshifter Labs Limited",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","evancummings","Columbus, OH","forker","News","Switchbox, Inc.",FALSE,1,"United States","Columbus","Columbus, OH, USA",39.9611755,-82.9987942
+"News","dblchu","United Kingdom","forker","News",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","benediktgirz","San Francisco","forker","News",NA,FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"News","CondeNast","New York","forker","News",NA,FALSE,2,"United States","New York","New York, NY, USA",40.7127837,-74.0059413
+"News","Bhasky","Chennai","forker","News",NA,FALSE,1,"India","Chennai","Chennai, Tamil Nadu, India",13.0826802,80.2707184
+"News","oki","Poland","forker","News",NA,FALSE,1,"Poland","N/A","Poland",51.919438,19.145136
+"News","maheshbabu","Bangalore","forker","News","",FALSE,1,"India","Bengaluru","Bengaluru, Karnataka, India",12.9715987,77.5945627
+"News","minsikzzang","London, UK","forker","News","Global Personals Ltd",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","khoazany","Singapore","forker","News","Singapore Management University",FALSE,1,"Singapore","N/A","Singapore",1.352083,103.819836
+"News","jay3126","Noida","forker","News","R Systems International Pvt. Ltd.",FALSE,2,"India","Noida","Noida, Uttar Pradesh, India",28.5355161,77.3910265
+"News","neurolit","Grenoble","forker","News","Inria",FALSE,1,"France","Grenoble","Grenoble, France",45.188529,5.724524
+"News","dpwilhelmsen","Boston, MA","forker","News","Genarts",FALSE,1,"United States","Boston","Boston, MA, USA",42.3600825,-71.0588801
+"News","leommoore","Ireland","forker","News","",FALSE,1,"Ireland","N/A","Ireland",53.41291,-8.24389
+"News","montazze","Indonesia","forker","News","Montazze",FALSE,1,"Indonesia","N/A","Indonesia",-0.789275,113.921327
+"News","janhocevar","Slovenia Ljubljana","forker","News","D·Labs",FALSE,1,"Slovenia","Ljubljana","Ljubljana, Slovenia",46.0569465,14.5057515
+"News","bigbasti","Germany","forker","News","",FALSE,1,"Germany","N/A","Germany",51.165691,10.451526
+"News","anodpixels","Bucharest/Romania","forker","News","anodPixels",FALSE,1,"Romania","Bucharest","Bucharest, Romania",44.4267674,26.1025384
+"News","PixoiD","Belarus","forker","News","Tanix",FALSE,1,"Belarus","N/A","Belarus",53.709807,27.953389
+"News","joewillnyc","New York, NY","forker","News","Aol",FALSE,1,"United States","New York","New York, NY, USA",40.7127837,-74.0059413
+"News","baki250","London, UK","forker","News","BIG RED FEET LTD",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","PereiraM","Toronto, Ontario","forker","News","The Globe and Mail",FALSE,1,"Canada","Toronto","Toronto, ON, Canada",43.653226,-79.3831843
+"News","jjozwiak","Chicago, IL","forker","News","",FALSE,1,"United States","Chicago","Chicago, IL, USA",41.8781136,-87.6297982
+"News","nishchith","Mumbai","forker","News","CG",FALSE,1,"India","Mumbai","Mumbai, Maharashtra, India",19.0759837,72.8776559
+"News","jonlow","Adelaide","forker","News","Jon Low",FALSE,2,"Australia","Adelaide","Adelaide SA, Australia",-34.9286212,138.5999594
+"News","cxq","Paris","forker","News","Contract-live",FALSE,5,"France","Paris","Paris, France",48.856614,2.3522219
+"News","firegoby","UK","forker","News","Firegoby Design",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","webdesignberlin","Berlin","forker","News","Webdesign Berlin Seiler-Gerstmann.de",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"News","sridharb6","Hyderabad ","forker","News","TechNotz Web Services (TWS)",FALSE,1,"India","Hyderabad","Hyderabad, Telangana, India",17.385044,78.486671
+"News","SharmaManish","Roorkee","forker","News","IIT Roorkee",FALSE,1,"India","Roorkee","Roorkee, Uttarakhand, India",29.8542626,77.8880002
+"News","oncletom","London, United Kingdom","forker","News","BBC R&D",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","marszu","Stuttgart","forker","News","BB&K",FALSE,1,"Germany","Stuttgart","Stuttgart, Germany",48.7758459,9.1829321
+"News","stephenplusplus","Michigan","forker","News","TasteJS, Yeoman",FALSE,1,"United States","N/A","Michigan, USA",44.3148443,-85.6023643
+"News","pengyan518","New York","forker","News","",FALSE,2,"United States","New York","New York, NY, USA",40.7127837,-74.0059413
+"News","StuartNZ","Glasgow","forker","News","",FALSE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"News","myaniu","中国，陕西，西安","forker","News","陕西威尔伯乐信息技术有限公司",FALSE,2,"China","Xian Shi","Xi'an Railway Station, Huan Cheng Bei Lu Dong Duan, ErHuan Lu YanXian ShangYe JingJiDai, Xincheng Qu, Xian Shi, Shaanxi Sheng, China, 710015",34.277916,108.962817
+"News","jbaginski","London, United Kingdom","forker","News","Hostelbookers.com Ltd (Web Reservations International)",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","sparkmorry","Beijing","forker","News","www.meituan.com",FALSE,1,"China","Beijing","Beijing, Beijing, China",39.904211,116.407395
+"News","shaunstanislaus","Sunnyvale, San Francisco / Singapore","forker","News","Augmify",FALSE,1,"Singapore","N/A","Singapore",1.352083,103.819836
+"News","rikh42","UK","forker","News","POD Point Ltd",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","ollieRogers","Bournemouth","forker","News","Ratio",FALSE,1,"United Kingdom","Bournemouth","Bournemouth, Bournemouth, UK",50.719164,-1.880769
+"News","jaxxstorm","London, UK","forker","News",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","xiwcx","Washington, DC","forker","News","National Geographic",FALSE,1,"United States","Washington","Washington, DC, USA",38.9071923,-77.0368707
+"News","jefflembeck","Seattle, WA","forker","News","npm, inc.",FALSE,1,"United States","Seattle","Seattle, WA, USA",47.6062095,-122.3320708
+"News","insaneisnotfree","Puebla","forker","News","softlitemx",FALSE,1,"Mexico","Puebla","Puebla, Puebla, Mexico",19.0412967,-98.2061996
+"News","wagnerbeethoven","Recife, PE [BRA]","forker","News","Agência Sumô",FALSE,1,"Brazil","Recife","Recife - State of Pernambuco, Brazil",-8.0578381,-34.8828969
+"News","amoltatkare","Mumbai","forker","News","Tata Consultancy Services LTD",FALSE,1,"India","Mumbai","Mumbai, Maharashtra, India",19.0759837,72.8776559
+"News","pmuir","Edinburgh, Scotland","forker","News","Red Hat, Inc.",FALSE,1,"United Kingdom","Edinburgh","Edinburgh, City of Edinburgh, UK",55.953252,-3.188267
+"News","bbttxu","North Texas (really central-eastern Texas)","forker","News","Black Bear Theory",FALSE,1,"United States","N/A","Texas, USA",31.9685988,-99.9018131
+"News","andrewccadman","UK","forker","News",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","rowanbeentje","London, UK","forker","News",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","micahgodbolt","Vancouver, WA","forker","News","Phase2",FALSE,1,"United States","Vancouver","Vancouver, WA, USA",45.6387281,-122.6614861
+"News","williamjablonski","Florianópolis - Brasil","forker","News","Q4Sure consultoria especializada",FALSE,5,"Brazil","Florianópolis","Florianópolis - State of Santa Catarina, Brazil",-27.5953778,-48.5480499
+"News","denji","Kiyv, Ukraine","forker","News","",FALSE,1,"Ukraine","Kyiv","Kyiv, Ukraine",50.4501,30.5234
+"News","imclab","56 West 22nd Street New York, NY 10010","forker","News",NA,FALSE,1,"United States","New York","56 West 22nd Street, New York, NY 10010, USA",40.741815,-73.992895
+"News","qial","Irvine, CA","forker","News","headwire.com, Inc.",FALSE,1,"United States","Irvine","Irvine, CA, USA",33.6839473,-117.7946942
+"News","jimCresswell","London, UK","forker","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","jscrobinson","Shrewsbury, UK","forker","News",NA,FALSE,1,"United Kingdom","Shrewsbury","Shrewsbury, Shrewsbury, Shropshire, UK",52.7073029,-2.7553268
+"News","kalupa","Vancouver, BC","forker","News","Unbounce",FALSE,1,"Canada","Vancouver","Vancouver, BC, Canada",49.2827291,-123.1207375
+"News","chadbrewbaker","Des Moines, IA","forker","News","Dataculture LLC, Pillar",FALSE,1,"United States","Des Moines","Des Moines, IA, USA",41.6005448,-93.6091064
+"News","jasonkarns","Columbus, Ohio","forker","News","Test Double",FALSE,1,"United States","Columbus","Columbus, OH, USA",39.9611755,-82.9987942
+"News","rspindel","Miami, FL","forker","News","WebSpin.biz",FALSE,1,"United States","Miami","Miami, FL, USA",25.7616798,-80.1917902
+"News","jamesryanbell","Leeds, UK","forker","News","",FALSE,2,"United Kingdom","Leeds","Leeds, West Yorkshire, UK",53.8007554,-1.5490774
+"News","chipcullen","Washington, DC","forker","News","chipcullen.com",FALSE,1,"United States","Washington","Washington, DC, USA",38.9071923,-77.0368707
+"News","Woorg","Moscow","forker","News","",FALSE,2,"Russia","Moscow","Moscow, Russia",55.755826,37.6173
+"News","charlier","UK","forker","News",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","emilebosch","Amsterdam","forker","News",NA,FALSE,1,"Netherlands","Amsterdam","Amsterdam, Netherlands",52.3702157,4.8951679
+"News","mglaman","Kenosha, WI","forker","News","Gaggle",FALSE,1,"United States","Kenosha","Kenosha, WI, USA",42.5847425,-87.8211854
+"News","JohnAlbin","Taipei, Taiwan","forker","News","",FALSE,1,"Taiwan","Taipei","Taipei, Taiwan",25.0329694,121.5654177
+"News","paracycle","Istanbul, Turkey","forker","News","Myplanet",FALSE,1,"Turkey","Istanbul","Istanbul, İstanbul, Turkey",41.0082376,28.9783589
+"News","jaredstehler","Boston, MA","forker","News","HubSpot",FALSE,1,"United States","Boston","Boston, MA, USA",42.3600825,-71.0588801
+"News","chrisgedrim","Nuneaton","forker","News","First Utility",FALSE,1,"United Kingdom","Nuneaton","Nuneaton, Warwickshire, UK",52.520489,-1.465382
+"News","adouglas","London, UK","forker","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","JakobP","Denmark","forker","News","",FALSE,1,"Denmark","N/A","Denmark",56.26392,9.501785
+"News","Trail9","Valparaiso, IN","forker","News","Trail 9",FALSE,1,"United States","Valparaiso","Valparaiso, IN, USA",41.4730948,-87.0611412
+"News","Sillson","Bend, Oregon","forker","News","",FALSE,1,"United States","Bend","Bend, OR, USA",44.0581728,-121.3153096
+"News","triscuittt","Troy, MI","forker","News","",FALSE,2,"United States","Troy","Troy, MI, USA",42.6064095,-83.1497751
+"News","jankeesvw","Netherlands","forker","News","ACDME, Timi and Lex",FALSE,1,"Netherlands","N/A","Netherlands",52.132633,5.291266
+"News","whazap","Vienna","forker","News","",FALSE,3,"Austria","Vienna","Vienna, Austria",48.2081743,16.3738189
+"News","peruukki","Berlin, Germany","forker","News","",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"News","chaunceyt","NY","forker","News",NA,FALSE,1,"United States","New York","New York, NY, USA",40.7127837,-74.0059413
+"News","suchkultur","Frankfurt am Main","forker","News",NA,FALSE,1,"Germany","Frankfurt","Frankfurt, Germany",50.1109221,8.6821267
+"News","birkmann","Berlin","forker","News","Freelance Web Designer & Developer",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"News","AdenFraser","Ipswich, UK","forker","News","Jacob Bailey Ltd",FALSE,1,"United Kingdom","Ipswich","Ipswich, Suffolk, UK",52.056736,1.14822
+"News","jasnow","metro-Atlanta, GA","forker","News","Ruby-on-Rails Upgrade Specialist",FALSE,18,"United States","Atlanta","Metro Atlanta Beekeepers Association, 1345 Piedmont Avenue Northeast, Atlanta, GA 30309, USA",33.7899187,-84.373805
+"News","AndrewVos","London, UK","forker","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","JonRowe","Sydney, Australia","forker","News","Crafted Code Ltd",FALSE,2,"Australia","Sydney","Sydney NSW, Australia",-33.8674869,151.2069902
+"News","commuterjoy","London, UK","forker","News","Guardian",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","lenny","Long Island, NY","forker","News","American Physical Society",FALSE,1,"United States","N/A","Long Island, New York, USA",40.7891424,-73.1349605
+"News","gsyn77","广东, 中国","forker","News","omniworks.cn",FALSE,1,"China","N/A","Guangdong, China",23.132191,113.266531
+"News","timabell","UK","forker","News",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","ray6080","Chengdu, China","forker","News","SIchuan Unviersity, China",FALSE,1,"China","Chengdu","Chengdu, Sichuan, China",30.572269,104.066541
+"News","kvervo","St. Petersburg - Russia","forker","News","",FALSE,1,"Russia","Saint Petersburg","Saint Petersburg, Russia",59.9342802,30.3350986
+"News","bawerd","Sweden","forker","News","",FALSE,1,"Sweden","N/A","Sweden",60.128161,18.643501
+"News","plukevdh","Bluffton, SC","forker","News","Articulate",FALSE,1,"United States","Bluffton","Bluffton, SC, USA",32.2371465,-80.8603868
+"News","shuynh","new york, ny","forker","News","",FALSE,1,"United States","New York","New York, NY, USA",40.7127837,-74.0059413
+"News","phbergsmann","Vienna","forker","News","",FALSE,3,"Austria","Vienna","Vienna, Austria",48.2081743,16.3738189
+"News","aripalo","Finland","forker","News",NA,FALSE,1,"Finland","N/A","Finland",61.92411,25.748151
+"News","bidah","Santiago, Chile.","forker","News","",FALSE,2,"Chile","Stgo","Santiago, Santiago Metropolitan Region, Chile",-33.4488897,-70.6692655
+"News","peterhadorn","Switzerland","forker","News","Hadorn AG Webagentur",FALSE,1,"Switzerland","N/A","Switzerland",46.818188,8.227512
+"News","jrcryer","Cardiff UK","forker","News","BBC",TRUE,1,"United Kingdom","Cardiff","Cardiff, Cardiff, UK",51.481581,-3.17909
+"News","yChing","Tainan, Taiwan","forker","News","",FALSE,1,"Taiwan","N/A","Tainan City, Taiwan",22.9998999,120.2268758
+"News","MaxMillion","USA","forker","News","MathewTyler.co",FALSE,1,"United States","N/A","United States",37.09024,-95.712891
+"News","jsethi","Toronto","forker","News",NA,FALSE,2,"Canada","Toronto","Toronto, ON, Canada",43.653226,-79.3831843
+"News","jag","Amsterdam","forker","News",NA,FALSE,1,"Netherlands","Amsterdam","Amsterdam, Netherlands",52.3702157,4.8951679
+"News","ecometrica","Edinburgh, United Kingdom","forker","News",NA,FALSE,1,"United Kingdom","Edinburgh","Edinburgh, City of Edinburgh, UK",55.953252,-3.188267
+"News","ymirpl","Warsaw, Poland","forker","News","Blade Polska s.c., swingdev.io",FALSE,1,"Poland","Warsaw","Warsaw, Poland",52.2296756,21.0122287
+"News","fontaineshu","San Diego, CA","forker","News","SweetLabs, Inc.",FALSE,1,"United States","San Diego","San Diego, CA, USA",32.715738,-117.1610838
+"News","degatt2","Barcelona","forker","News","Aerstudio & Colores Claros",FALSE,1,"Spain","Barcelona","Barcelona, Barcelona, Spain",41.3850639,2.1734035
+"News","ZheFeng","Sydney, Australia","forker","News","Pureprofile",FALSE,2,"Australia","Sydney","Sydney NSW, Australia",-33.8674869,151.2069902
+"News","SunelContus","chennai","forker","News","contus",FALSE,1,"India","Chennai","Chennai, Tamil Nadu, India",13.0826802,80.2707184
+"News","rzh","Palo Alto, CA","forker","News","MongoDB",FALSE,1,"United States","Palo Alto","Palo Alto, CA, USA",37.4418834,-122.1430195
+"News","jaredly","Provo, UT","forker","News","Brigham Young University",FALSE,1,"United States","Provo","Provo, UT, USA",40.2338438,-111.6585337
+"News","sonnyfraikue","london","forker","News","Handsome Toad Ltd",FALSE,4,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","chintandave","St Leonards, NSW","forker","News","Hothouse Interactive",FALSE,1,"Australia","Saint Leonards","Saint Leonards NSW 2065, Australia",-33.8234435,151.1935829
+"News","Kami","Ljubljana, Slovenia","forker","News","StackStorm",FALSE,1,"Slovenia","Ljubljana","Ljubljana, Slovenia",46.0569465,14.5057515
+"News","mickaelandrieu","Paris,France","forker","News","Lp digital / BackBee CMS",FALSE,2,"France","Paris","Paris, France",48.856614,2.3522219
+"News","americanstone","VT","forker","News","",FALSE,1,"United States","N/A","Vermont, USA",44.5588028,-72.5778415
+"News","mattsenior","UK","forker","News",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","dannymeldrum","United Kingdom","forker","News","Numiko",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","NThaker","Toronto Ontario, Canada","forker","News","",FALSE,1,"Canada","Toronto","Toronto, ON, Canada",43.653226,-79.3831843
+"News","jeepxiaozi","Beijing","forker","News","Aiscot co., Ltd",FALSE,1,"China","Beijing","Beijing, Beijing, China",39.904211,116.407395
+"News","joeromero","barcelona","forker","News","www.appintelligent.com",FALSE,1,"Spain","Barcelona","Barcelona, Barcelona, Spain",41.3850639,2.1734035
+"News","lewisnyman","Zurich","forker","News","WunderRoot",FALSE,1,"Switzerland","Zurich","Zurich, Switzerland",47.3686498,8.5391825
+"News","pomeh","Aix-en-Provence","forker","News","ATOS",FALSE,1,"France","Aix-en-Provence","Aix-en-Provence, France",43.529742,5.447427
+"News","reggieb","Worcestershire, United Kingdom","forker","News","Undervale Ltd",FALSE,1,"United Kingdom","N/A","Worcestershire, UK",52.2545225,-2.2668382
+"News","boldfacedesign","United Kingdom","forker","News","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","mortonfox","New Castle, DE","forker","News","",FALSE,1,"United States","New Castle","New Castle, DE 19720, USA",39.6620397,-75.5668166
+"News","rupl","Freiburg, Deutschland","forker","News","Four Kitchens",FALSE,1,"Germany","Freiburg","Freiburg, Germany",47.9990077,7.8421043
+"News","Quevin","San Francisco, CA","forker","News","UCSF, Quevin LLC",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"News","iam404","Pune","forker","News","rtCamp Solutions Pvt. Ltd.",FALSE,1,"India","Pune","Pune, Maharashtra, India",18.5204303,73.8567437
+"News","thingsinjars","Berlin","forker","News","The Angry Robot Zombie Factory",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"News","gregwebs","San Mateo, CA","forker","News",NA,FALSE,1,"United States","San Mateo","San Mateo, CA, USA",37.5629917,-122.3255254
+"News","arnoldclark","Glasgow, UK","forker","News",NA,FALSE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"News","tyom","London, UK","forker","News",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","tiemevanveen","Netherlands","forker","News","Momkai",FALSE,1,"Netherlands","N/A","Netherlands",52.132633,5.291266
+"News","nlisgo","Norwich, UK","forker","News","eLife Sciences",FALSE,2,"United Kingdom","Norwich","Norwich Airport Ltd, Norwich International Airport, Norwich, Norfolk NR6 6JA, UK",52.6693842,1.2784251
+"News","Werkspot","Amsterdam","forker","News",NA,FALSE,1,"Netherlands","Amsterdam","Amsterdam, Netherlands",52.3702157,4.8951679
+"News","dlai0001","Playa del Rey, CA","forker","News","1-800-Dentist",FALSE,1,"United States","Los Angeles","Playa del Rey, Los Angeles, CA, USA",33.9564194,-118.4422317
+"News","murrayrowan","London, UK","forker","News","Yahoo!",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","malengrin","Paris","forker","News","Vestiaire Collective",FALSE,5,"France","Paris","Paris, France",48.856614,2.3522219
+"News","jorgeng87","Zürich, Switzerland","forker","News","Centralway Switzerland AG",FALSE,1,"Switzerland","Zurich","Zurich, Switzerland",47.3686498,8.5391825
+"News","doryphores","London, UK","forker","News","Simply Business",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","zmilan","Belgrade, Serbia","forker","News",NA,FALSE,1,"Serbia","Belgrade","Belgrade, Serbia",44.786568,20.4489216
+"News","jacqui","London, UK","forker","News","BBC News Labs / BBC News",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","jlevesy","San Francisco","forker","News","Upfluence",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"News","Cgg","Paris, France","forker","News","Aldebaran",FALSE,2,"France","Paris","Paris, France",48.856614,2.3522219
+"News","giuseppefutia","Turin, Italy","forker","News","Nexa Center for Internet & Society - Politecnico di Torino",FALSE,5,"Italy","Turin","Turin, Italy",45.070312,7.6868565
+"News","egrommet","Cardiff","forker","News",NA,FALSE,1,"United Kingdom","Cardiff","Cardiff, Cardiff, UK",51.481581,-3.17909
+"News","dbonner1987","Glasgow","forker","News","4mb",FALSE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"News","wainstead","Key West, FL","forker","News","Socialserve.com",FALSE,1,"United States","Key West","Key West, FL 33040, USA",24.5550593,-81.7799871
+"News","Martiusweb","Paris, France","forker","News","alwaysdata",FALSE,2,"France","Paris","Paris, France",48.856614,2.3522219
+"News","prodigeni","N/A","forker","News","Connexion Foundation",FALSE,25,"United States","Waxahachie","North, Waxahachie, TX 75165, USA",32.423275,-96.8532813
+"News","jontutcher","Edgbaston, UK","forker","News","University of Birmingham",FALSE,1,"United Kingdom","Birmingham","Edgbaston, Birmingham, Birmingham, West Midlands B15, UK",52.4608009,-1.914995
+"News","jijothic","Nairobi Kenya","forker","News",NA,FALSE,1,"Kenya","Nairobi","Nairobi, Kenya",-1.2920659,36.8219462
+"News","basilesimon","London, UK","forker","News","BBC News Lab",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","kaerast","Leeds","forker","News",NA,FALSE,2,"United Kingdom","Leeds","Leeds, West Yorkshire, UK",53.8007554,-1.5490774
+"News","ahmadassaf","Antibes, France","forker","News","",FALSE,1,"France","Antibes","Antibes, France",43.580418,7.125102
+"News","rosario","London, UK","forker","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","lfbrandao","Brooklyn, NY","forker","News","",FALSE,1,"United States","New York","Brooklyn, NY, USA",40.6781784,-73.9441579
+"News","openphase","Nottawa, Ontario, Canada","forker","News","Openphase Technology Research and Development",FALSE,1,"Canada","Nottawa","Nottawa, ON L0M, Canada",44.4550987,-80.2070973
+"News","hereinthehive","Manchester, UK","forker","News","",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"News","chemsoc","Maidstone","forker","News","GForces",FALSE,1,"United Kingdom","Maidstone","Maidstone, Maidstone, Kent, UK",51.270363,0.522699
+"News","mackstar","Leeds, UK","forker","News",NA,FALSE,2,"United Kingdom","Leeds","Leeds, West Yorkshire, UK",53.8007554,-1.5490774
+"News","matt-riley","United Kingdom","forker","News","Sky",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","eknowles","London, UK","forker","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","svagionitis","Cork, Ireland","forker","Production",NA,FALSE,1,"Ireland","Cork","Cork, Ireland",51.8968917,-8.4863157
+"Production","danielgonzalezbbc","London, UK","forker","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","tchakabam","Berlin, Germany","forker","Production","DISPARAT",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"Production","papajuans","NYC","forker","Production",NA,FALSE,1,"United States","New York","New York, NY, USA",40.7127837,-74.0059413
+"Production","reborg","London, UK","forker","Production","reborg",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","james075","Paris","forker","Production","",FALSE,5,"France","Paris","Paris, France",48.856614,2.3522219
+"Production","middric","Buckinghamshire","forker","Production","Witchert",FALSE,1,"United Kingdom","N/A","Buckinghamshire, UK",51.8072204,-0.8127664
+"Production","fluendo","Barcelona, Spain","forker","Production",NA,FALSE,2,"Spain","El Prat de Llobregat","Barcelona–El Prat Airport (BCN), 08820 El Prat de Llobregat, Barcelona, Spain",41.297445,2.0832941
+"Production","LastManStanding","Sydney, Australia","forker","Production","LogicalCube ",FALSE,2,"Australia","Sydney","Sydney NSW, Australia",-33.8674869,151.2069902
+"Production","nicolejeanette","Puerto Rico","forker","Production","",FALSE,1,"Puerto Rico","N/A","Puerto Rico",18.220833,-66.590149
+"Production","deerawan","Jakarta, Indonesia","forker","Production","",FALSE,1,"Indonesia","Jakarta","Jakarta, Special Capital Region of Jakarta, Indonesia",-6.2087634,106.845599
+"Production","anthonygreen","London, UK","forker","Production","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","clementallen","London, UK","forker","Production","Accenture",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","callinize","Austin, TX","forker","Production",NA,FALSE,1,"United States","Austin","Austin, TX, USA",30.267153,-97.7430608
+"Production","jnuine","Paris, France","forker","Production",NA,FALSE,2,"France","Paris","Paris, France",48.856614,2.3522219
+"Production","alicraigmile","Fairlie, North Ayrshire","forker","Production",NA,FALSE,1,"United Kingdom","Fairlie","Fairlie, North Ayrshire, UK",55.757375,-4.853477
+"Production","stuarthicks","London, UK","forker","Production",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","johnsoncheng","San Francisco","forker","Production","",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"Production","dantman","BC, Canada","forker","Production","Redwerks",FALSE,1,"Canada","N/A","British Columbia, Canada",53.7266683,-127.6476206
+"Production","1bigidea","Mill Valley, CA","forker","Production","One Big Idea",FALSE,1,"United States","Mill Valley","Mill Valley, CA, USA",37.9060368,-122.5449763
+"Production","sprysoft","Cardiff, Wales","forker","Production","SprySoft Ltd",FALSE,1,"United Kingdom","Cardiff","Cardiff, Cardiff, UK",51.481581,-3.17909
+"Production","commuterjoy","London, UK","forker","Production","Guardian",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","njh","London, UK","forker","Production","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","jimlevett","Bristol, UK","forker","Production","Kite",FALSE,1,"United Kingdom","Bristol","Bristol, City of Bristol, UK",51.454513,-2.58791
+"Production","iparr","Sheffield","forker","Production",NA,FALSE,1,"United Kingdom","Sheffield","Sheffield, South Yorkshire, UK",53.381129,-1.470085
+"Production","azizur","Manchester, UK","forker","Production","ProDevStudio",TRUE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","tspear","Dorking, Surrey.","forker","Production","Freelance.",FALSE,1,"United Kingdom","Dorking","Dorking, Dorking, Surrey, UK",51.232202,-0.332378
+"Production","keeftango","London, UK","forker","Production","A Path Of Bravery",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","bestscarper","United Kingdom","forker","Production","BBC",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","oncletom","London, United Kingdom","forker","Production","BBC R&D",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","aksakalli","Germany","forker","Production","",FALSE,1,"Germany","N/A","Germany",51.165691,10.451526
+"Production","cpplover","Seongnam","forker","Production","",FALSE,1,"South Korea","Seongnam-si","Seongnam-si, Gyeonggi-do, South Korea",37.4449168,127.1388684
+"Production","shinkyu","Taiwan","forker","Production",NA,FALSE,1,"Taiwan","N/A","Taiwan",23.69781,120.960515
+"Production","vonwenm","London,UK","forker","Production","Huuzlee Ltd",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","jcobbctv","Media City/Salford","forker","Production","BBC",FALSE,4,"United Kingdom","N/A","Media City Footbridge, Salford M50 2EQ, UK",53.4712301,-2.3001096
+"Production","ianarundale","London/Manchester","forker","Production","British Broadcasting Corporation",TRUE,1,"United States","London","Manchester Road, London, KY, USA",37.0823094,-83.943505
+"Production","sprice","Vancouver","forker","Production","Reelhouse",FALSE,1,"United States","Vancouver","Vancouver, WA, USA",45.6387281,-122.6614861
+"Production","danjme","London, UK","forker","Production","We Love Web Stuff Limited",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","redsnapper8t8","Dublin, Ireland","forker","Production",NA,FALSE,1,"Ireland","Dublin","Dublin, Ireland",53.3498053,-6.2603097
+"Production","ixalon","Edinburgh","forker","Production",NA,FALSE,1,"United Kingdom","Edinburgh","Edinburgh, City of Edinburgh, UK",55.953252,-3.188267
+"Production","markhext","London, UK","forker","Production","Dudos Online Ltd",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","24i","Amsterdam, The Netherlands","forker","Production",NA,FALSE,1,"Netherlands","Amsterdam","Amsterdam, Netherlands",52.3702157,4.8951679
+"Production","bastuijnman","Amsterdam","forker","Production","24i",FALSE,1,"Netherlands","Amsterdam","Amsterdam, Netherlands",52.3702157,4.8951679
+"Production","torbenschmidt","Braunschweig, Germany","forker","Production","CoDeTV",FALSE,1,"Germany","Brunswick","Brunswick, Germany",52.2688736,10.5267696
+"Production","UKTV","London, UK","forker","Production",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","thomas-lee","Hong Kong","forker","Production","",FALSE,1,"Hong Kong","N/A","Hong Kong",22.396428,114.109497
+"Production","winstongit","china","forker","Production","androidbox",FALSE,1,"China","N/A","China",35.86166,104.195397
+"Production","adrexia","Wellington","forker","Production","",FALSE,6,"New Zealand","Wellington","Wellington, New Zealand",-41.2864603,174.776236
+"Production","joeromero","barcelona","forker","Production","www.appintelligent.com",FALSE,1,"Spain","Barcelona","Barcelona, Barcelona, Spain",41.3850639,2.1734035
+"Production","peterthompson","United Kingdom","forker","Production","Arqiva",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","katie-roberts","Manchester","forker","Production","BBC",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","mackstar","Leeds, UK","forker","Production",NA,FALSE,2,"United Kingdom","Leeds","Leeds, West Yorkshire, UK",53.8007554,-1.5490774
+"Production","mlin6436","United Kingdom","forker","Production","",TRUE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","lukejpreston","Manchester","forker","Production","BBC",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","tgandrews","Manchester, UK","forker","Production","",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","JohnSmall","Faversham, Kent, UK","forker","Production","Mindoro Marine Ltd",FALSE,1,"United Kingdom","Faversham","Faversham, Faversham, Kent ME13, UK",51.315994,0.889358
+"Production","jherkenrath","Cologne, Germany","forker","Production","G&L Geißendörfer & Leschinsky GmbH",FALSE,1,"Germany","Cologne","Cologne, Germany",50.937531,6.9602786
+"Production","thehogfather","United Kingdom","forker","Production",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","bradparks","Fredericton, New Brunswick, Canada","forker","Production",NA,FALSE,1,"Canada","Fredericton","Fredericton, NB, Canada",45.9635895,-66.6431151
+"Production","ericpugh","Washington, DC","forker","Production","",FALSE,1,"United States","Washington","Washington, DC, USA",38.9071923,-77.0368707
+"Production","jlengdobler","Regensburg/ Bavaria","forker","Production","Uni Regensburg",FALSE,1,"Germany","Regensburg","Regensburg, Germany",49.0134297,12.1016236
+"Production","jak","UK","forker","Production","MOO",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","AndrejAndb","Russia","forker","Production",NA,FALSE,1,"Russia","N/A","Russia",61.52401,105.318756
+"Production","nickgerig","Valencia, Spain","forker","Production","http://nubito.technology",FALSE,6,"Spain","Valencia","Valencia, Valencia, Spain",39.4699075,-0.3762881
+"Production","dcsch","Los Angeles, CA","forker","Production","",FALSE,1,"United States","Los Angeles","Los Angeles, CA, USA",34.0522342,-118.2436849
+"Production","bbcrd","London (W1, W12), Salford - United Kingdom","forker","Production",NA,FALSE,1,"United Kingdom","London","Salford House, Seyssel Street, Isle of Dogs, London E14 3HZ, UK",51.4913389,-0.006588
+"Production","kaichanvong","Internetz? London, United Kingdom (UK)","forker","Production","",FALSE,5,"United Kingdom","London","London Internet Church, 39 Walbrook, London EC4N 8BN, UK",51.5126405,-0.0901289
+"Production","fabiant7t","Vienna, Austria","forker","Production","schnee von morgen webTV GmbH",FALSE,1,"Austria","Vienna","Vienna, Austria",48.2081743,16.3738189
+"Production","barroco","Geneva, Switzerland","forker","Production","EBU Media Technology and Innovation",FALSE,1,"Switzerland","Geneva","Geneva, Switzerland",46.1983922,6.1422961
+"Production","ramhemasri","London, UK","forker","Production",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","LarsGrevelink","Amsterdam Area, The Netherlands","forker","Production","24i",FALSE,2,"Netherlands","Amsterdam","Grey Area Coffeeshop, Oude Leliestraat 2, 1015 AW Amsterdam, Netherlands",52.3747541,4.8886084
+"Production","ramanathanr","Bangalore","forker","Production",NA,FALSE,1,"India","Bengaluru","Bengaluru, Karnataka, India",12.9715987,77.5945627
+"Production","landeiro","Lisbon","forker","Production","RTP - Portuguese Public TV/Radio Broadcaster",FALSE,1,"Portugal","Lisbon","Lisbon, Portugal",38.7222524,-9.1393366
+"Production","JonB","London, UK","forker","Production","BBC Digital",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","liudong","Manchester, United Kingdom","forker","Production","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","AlexChesters","Warrington","forker","Production","BBC",FALSE,4,"United Kingdom","Warrington","Warrington, Warrington, UK",53.3900441,-2.5969501
+"Production","Guisch","France","forker","Production","",FALSE,1,"France","N/A","France",46.227638,2.213749
+"R&D","infoburp","Darwen, UK","forker","R&D","",FALSE,1,"United Kingdom","Darwen","Darwen, Blackburn with Darwen, UK",53.695451,-2.46874
+"R&D","chainlink","Toronto","forker","R&D","",FALSE,2,"Canada","Toronto","Toronto, ON, Canada",43.653226,-79.3831843
+"R&D","trint-it","UK","forker","R&D",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"R&D","xadhoom","Somewhere in Italy","forker","R&D","",FALSE,1,"Italy","N/A","Italy",41.87194,12.56738
+"R&D","fela98","Norway, Bagn","forker","R&D",NA,FALSE,1,"Norway","Bagn","Bagn, Norway",60.8224903,9.5520722
+"R&D","samstarling","Berlin, Germany","forker","R&D","SoundCloud",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"R&D","rohatiro","Nuevo León, México","forker","R&D","",FALSE,1,"Mexico","N/A","Nuevo Leon, Mexico",25.592172,-99.9961947
+"R&D","z-lake","Chicago, IL","forker","R&D","",FALSE,1,"United States","Chicago","Chicago, IL, USA",41.8781136,-87.6297982
+"R&D","Driftt","Cambridge, MA","forker","R&D",NA,FALSE,1,"United States","Cambridge","Cambridge, MA, USA",42.3736158,-71.1097335
+"R&D","matth","United Kingdom","forker","R&D","BBC",TRUE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"R&D","isotoma","York, UK","forker","R&D",NA,FALSE,1,"United Kingdom","York","York, York, York, UK",53.9599651,-1.0872979
+"R&D","bitwit","Toronto, Canada","forker","R&D","",FALSE,2,"Canada","Toronto","Toronto, ON, Canada",43.653226,-79.3831843
+"R&D","pkeuter","Almere, Nederland","forker","R&D","",FALSE,1,"Netherlands","Almere","Almere, Netherlands",52.3507849,5.2647016
+"R&D","kamaroly","Kigali,Rwanda","forker","R&D","Tigo Rwanda",FALSE,2,"Rwanda","Kigali","Kigali, Rwanda",-1.943889,30.059444
+"R&D","tipsforthings","United Kingdom","forker","R&D","ALXS Design",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"R&D","viniciusx","Juiz de Fora, Brazil","forker","R&D","",FALSE,1,"Brazil","Juiz de Fora","Juiz de Fora - MG, Brazil",-21.7624237,-43.3433999
+"R&D","golicar","Brazil","forker","R&D",NA,FALSE,1,"Brazil","N/A","Brazil",-14.235004,-51.92528
+"R&D","sbmaxx","Moscow","forker","R&D","Yandex",FALSE,2,"Russia","Moscow","Moscow, Russia",55.755826,37.6173
+"R&D","faroit","Nuremberg, Germany","forker","R&D","",FALSE,1,"Germany","Nuremberg","Nuremberg, Germany",49.45203,11.07675
+"R&D","iopenstack","UK","forker","R&D","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"R&D","rcrowder","London, UK","forker","R&D","Current contract seeking",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","sandroacoelho","Brazil","forker","R&D",NA,FALSE,1,"Brazil","N/A","Brazil",-14.235004,-51.92528
+"R&D","johndpope","Melbourne","forker","R&D","Fieldstorm",FALSE,1,"United States","Melbourne","Melbourne, FL, USA",28.0836269,-80.6081089
+"R&D","StevenLOL","Singapore","forker","R&D","Steven",FALSE,1,"Singapore","N/A","Singapore",1.352083,103.819836
+"R&D","robhammond","London, UK","forker","R&D","Trinity Mirror",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","loopingrage","Orlando, FL","forker","R&D","Tropo / Voxeo Labs",FALSE,1,"United States","Orlando","Orlando, FL, USA",28.5383355,-81.3792365
+"R&D","mjwillson","London, UK","forker","R&D","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","noble66","New York City","forker","R&D","Betaworks",FALSE,2,"United States","New York","New York, NY, USA",40.7127837,-74.0059413
+"R&D","DveMac","London, UK","forker","R&D","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","jasonaibrahim","Bay Area, CA","forker","R&D","",FALSE,1,"United States","N/A","San Francisco Bay Area, CA, USA",37.9994669,-122.174605
+"R&D","FlowPress","Toronto, Canada","forker","R&D",NA,FALSE,2,"Canada","Toronto","Toronto, ON, Canada",43.653226,-79.3831843
+"R&D","DOTOCA","Manchester, UK","forker","R&D",NA,FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"R&D","gorjuspixels","Canada","forker","R&D","Zambah, Inc.",FALSE,1,"Canada","N/A","Canada",56.130366,-106.346771
+"R&D","BantouTelecom","Douala,Cameroon","forker","R&D",NA,FALSE,1,"Cameroon","Douala","Douala, Cameroon",4.05,9.7
+"R&D","djibi2","United States","forker","R&D","True Fitness",FALSE,1,"United States","N/A","United States",37.09024,-95.712891
+"R&D","tomjnixon","Manchester, UK","forker","R&D","BBC R&D",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"R&D","audy","Gainesville, Florida, USA","forker","R&D","Academia",FALSE,1,"United States","Gainesville","Gainesville, FL, USA",29.6516344,-82.3248262
+"R&D","lpsBetty","Salzburg, Austria","forker","R&D",NA,FALSE,1,"Austria","Salzburg","Salzburg, Austria",47.80949,13.05501
+"R&D","CalculatedContent","San Francisco, CA","forker","R&D",NA,FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"R&D","oncletom","London, United Kingdom","forker","R&D","BBC R&D",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","benoit-lateltin","Paris","forker","R&D","",FALSE,5,"France","Paris","Paris, France",48.856614,2.3522219
+"R&D","jongrover","NYC","forker","R&D",NA,FALSE,1,"United States","New York","New York, NY, USA",40.7127837,-74.0059413
+"R&D","taf2","Severna Park MD","forker","R&D","CallTrackingMetrics",FALSE,1,"United States","Severna Park","Severna Park, MD, USA",39.070388,-76.5452409
+"R&D","chandujujare","India","forker","R&D","personal",FALSE,1,"India","N/A","India",20.593684,78.96288
+"R&D","nightscape","Passau, Germany","forker","R&D","crealytics GmbH",FALSE,1,"Germany","Passau","Passau, Germany",48.5667364,13.4319466
+"R&D","chintanparikh","Atlanta, Georgia","forker","R&D","Student",FALSE,1,"United States","Atlanta","Atlanta, GA, USA",33.7489954,-84.3879824
+"R&D","sunkaianna","Wuhan, China","forker","R&D","",FALSE,1,"China","Wuhan","Wuhan, Hubei, China",30.593099,114.305393
+"R&D","fishdude","Los Angeles, CA","forker","R&D","",FALSE,1,"United States","Los Angeles","Los Angeles, CA, USA",34.0522342,-118.2436849
+"R&D","art19","Los Angeles","forker","R&D",NA,FALSE,1,"United States","Los Angeles","Los Angeles, CA, USA",34.0522342,-118.2436849
+"R&D","LeFnord","Leipzig, Germany","forker","R&D","sage",FALSE,1,"Germany","Leipzig","Leipzig, Germany",51.3396955,12.3730747
+"R&D","metade","London, UK","forker","R&D",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","jonjomckay","Exeter, UK","forker","R&D","",FALSE,1,"United Kingdom","Exeter","Exeter, Exeter, Devon, UK",50.718412,-3.533899
+"R&D","bbarker","Ithaca, NY","forker","R&D","Cornell University",FALSE,1,"United States","Ithaca","Ithaca, NY, USA",42.4439614,-76.5018807
+"R&D","FauxFaux","Cricklewood, London, UK","forker","R&D",NA,FALSE,2,"United Kingdom","London","Cricklewood, London NW2, UK",51.555684,-0.21396
+"R&D","datumlogic","London, UK","forker","R&D",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","rajesh-kumar","London, UK","forker","R&D",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","leanand","Chennai","forker","R&D","Freshdesk",FALSE,1,"India","Chennai","Chennai, Tamil Nadu, India",13.0826802,80.2707184
+"R&D","charlespwd","Montreal","forker","R&D","Independent",FALSE,1,"Canada","Montreal","Montreal, QC, Canada",45.5016889,-73.567256
+"R&D","BTMorton","UK","forker","R&D","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"R&D","yosiat","Tel Aviv, Israel","forker","R&D","",FALSE,1,"Israel","Tel Aviv-Yafo","Tel Aviv-Yafo, Israel",32.0852999,34.7817676
+"R&D","neildavis","London, UK","forker","R&D","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","jonbarlo","Costa Rica","forker","R&D","Aeon IT Group",FALSE,1,"Costa Rica","N/A","Costa Rica",9.748917,-83.753428
+"R&D","lowpitch","Brighton, UK","forker","R&D","3 Feet High Ltd.",FALSE,1,"United Kingdom","Brighton","Brighton, The City of Brighton and Hove, UK",50.82253,-0.137163
+"R&D","FraserCoyle","Edinburgh, UK","forker","R&D",NA,FALSE,1,"United Kingdom","Edinburgh","Edinburgh, City of Edinburgh, UK",55.953252,-3.188267
+"R&D","chrislo","London, UK","forker","R&D","FutureLearn",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","jof","San Francisco","forker","R&D","",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"R&D","tfmorris","Boston, USA","forker","R&D",NA,FALSE,6,"United States","Boston","Boston, MA, USA",42.3600825,-71.0588801
+"R&D","surflightroy","United States","forker","R&D",NA,FALSE,1,"United States","N/A","United States",37.09024,-95.712891
+"R&D","asanger","Clarkston, MI","forker","R&D","LevelSet Solutions",FALSE,1,"United States","Clarkston","Clarkston, MI 48346, USA",42.7351196,-83.4192941
+"R&D","freefrancisco","San Francisco, CA","forker","R&D","Gumroad",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"R&D","Ruenzuo","Hamburg, Germany","forker","R&D","",FALSE,1,"Germany","Hamburg","Hamburg, Germany",53.5510846,9.9936818
+"R&D","nibua-r","Paris, France","forker","R&D",NA,FALSE,2,"France","Paris","Paris, France",48.856614,2.3522219
+"R&D","jamesoram","London, UK","forker","R&D","Tromba Ltd",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","andybee","Bristol, UK","forker","R&D","togglebit",FALSE,1,"United Kingdom","Bristol","Bristol, City of Bristol, UK",51.454513,-2.58791
+"R&D","Holek","London, UK","forker","R&D","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","ChangJoo-Park","South Korea","forker","R&D","__",FALSE,1,"South Korea","N/A","South Korea",35.907757,127.766922
+"R&D","CoCTuner","Germany","forker","R&D","Harman Infotainment",FALSE,1,"Germany","N/A","Germany",51.165691,10.451526
+"R&D","cvarta","Switzerland","forker","R&D","Student at University of Applied Sciences Northwestern Switzerland",FALSE,1,"Switzerland","N/A","Switzerland",46.818188,8.227512
+"R&D","siefca","Wrocław, Poland","forker","R&D","BAD[SECTOR].PL",FALSE,1,"Poland","Wrocław","Wrocław, Poland",51.1078852,17.0385376
+"R&D","roozgar","iran","forker","R&D",NA,FALSE,1,"Iran","N/A","Iran",32.427908,53.688046
+"R&D","kitplummer","Tucson, AZ","forker","R&D","RadiantBlue && Integrallis && OVMTB",FALSE,1,"United States","Tucson","Tucson, AZ, USA",32.2217429,-110.926479
+"R&D","frtncr","Istanbul, TURKEY","forker","R&D","Wincor Nixdorf",FALSE,1,"Turkey","Istanbul","Istanbul, İstanbul, Turkey",41.0082376,28.9783589
+"R&D","kbrock","Boston, MA","forker","R&D","Red Hat",FALSE,1,"United States","Boston","Boston, MA, USA",42.3600825,-71.0588801
+"R&D","XieConnect","Mountain View, CA","forker","R&D","",FALSE,1,"United States","Mountain View","Mountain View, CA, USA",37.3860517,-122.0838511
+"R&D","billwiliams","Nairobi Kenya","forker","R&D","",FALSE,1,"Kenya","Nairobi","Nairobi, Kenya",-1.2920659,36.8219462
+"R&D","alup","Athens, Greece","forker","R&D","Skroutz S.A. (https://github.com/skroutz)",FALSE,1,"Greece","Athens","Athens, Greece",37.983917,23.7293599
+"R&D","a1k0n","Milwaukee, WI Area","forker","R&D","",FALSE,16,"United States","Milwaukee","Milwaukee Area Technical College - MATC Education Center at Walker Square, 816 West National Avenue, Milwaukee, WI 53204, USA",43.0236295,-87.9219961
+"R&D","stuartmemo","Glasgow, Scotland","forker","R&D","",FALSE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"R&D","JamesHarrison","Oxfordshire, UK","forker","R&D","BBC Research and Development",TRUE,1,"United Kingdom","N/A","Oxfordshire, UK",51.7612056,-1.2464674
+"R&D","rujmah","Oxford, Oxfordshire, UK","forker","R&D","Degu IO",FALSE,1,"United Kingdom","Oxford","Oxford, Oxford, UK",51.7520209,-1.2577263
+"R&D","diasks2","Tochigi, Japan","forker","R&D","TM-Town",FALSE,2,"Japan","N/A","Tochigi Prefecture, Japan",36.565725,139.8835651
+"R&D","rjlee","Leeds","forker","R&D","http://www.bbc.co.uk",FALSE,2,"United Kingdom","Leeds","Leeds, West Yorkshire, UK",53.8007554,-1.5490774
+"R&D","young92117","San Diego","forker","R&D","",FALSE,2,"United States","San Diego","San Diego, CA, USA",32.715738,-117.1610838
+"R&D","romikoops","Berlin, Germany","forker","R&D","StrongQA",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"R&D","bublik","Odessa Ukraine","forker","R&D","Lightcraft LLC",FALSE,1,"Ukraine","Odessa","Odessa, Odessa Oblast, Ukraine",46.482526,30.7233095
+"R&D","robbles","Victoria, BC, Canada","forker","R&D","Pretio Interactive",FALSE,1,"Canada","Victoria","Victoria, BC, Canada",48.4284207,-123.3656444
+"R&D","gorodinskiy","Saint-Petersburg","forker","R&D","General Satellite",FALSE,1,"United States","Saint Petersburg","Saint Petersburg, FL, USA",27.773056,-82.64
+"R&D","dustinbrownman","Portland, OR","forker","R&D","",FALSE,1,"United States","Portland","Portland, OR, USA",45.5230622,-122.6764816
+"R&D","hagenw","Berlin","forker","R&D","TU Berlin",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"R&D","ingmaras","London, United Kingdom","forker","R&D","Henchman App",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","skarlcf","Poland","forker","R&D","Fanatical Code",FALSE,1,"Poland","N/A","Poland",51.919438,19.145136
+"R&D","eavgerinos","Athens, Greece","forker","R&D","Skroutz S.A.",FALSE,1,"Greece","Athens","Athens, Greece",37.983917,23.7293599
+"R&D","beakshy","Southern California","forker","R&D","",FALSE,1,"N/A","N/A","Southern California",34.9592083,-116.419389
+"R&D","henrygarner","London, UK","forker","R&D","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","rberger","Silicon Valley, CA","forker","R&D","Mist Systems, Inc",FALSE,1,"United States","N/A","Silicon Valley, CA, USA",37.362517,-122.03476
+"R&D","paulserraino","Austin, TX","forker","R&D","",FALSE,1,"United States","Austin","Austin, TX, USA",30.267153,-97.7430608
+"R&D","khanhnguyen","Ho Chi Minh","forker","R&D","Freelancer",FALSE,1,"Vietnam","Ho Chi Minh City","Ho Chi Minh City, Ho Chi Minh, Vietnam",10.8230989,106.6296638
+"R&D","salvadorven","Groningen","forker","R&D","Factlink",FALSE,2,"Netherlands","Groningen","Groningen, Netherlands",53.2193835,6.5665018
+"R&D","milesbernie","United Kingdom","forker","R&D","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Mixed","oncletom","London, United Kingdom","forker","Mixed","BBC R&D",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","Mamady","Las Vegas, USA","forker","Mixed","Modern Homes of Nevada",FALSE,3,"United States","Las Vegas","Las Vegas, NV, USA",36.1699412,-115.1398296
+"Mixed","craigtaub","London, UK","forker","Mixed",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","joshrp","London, UK","forker","Mixed","JustPark",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","BBC-News","Broadcasting House, London","forker","Mixed",NA,FALSE,2,"United Kingdom","London","Broadcasting House, Portland Place, Marylebone, London W1A 1AA, UK",51.5187833,-0.1434949
+"Mixed","charlier","UK","forker","Mixed",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Mixed","JonB","London, UK","forker","Mixed","BBC Digital",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","miguelgonz","London, UK","forker","Mixed","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","stevenjack","London, UK","forker","Mixed","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Archive","AndyA","London, UK","subscribers","Archive","Hexten Ltd",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Archive","nevali","Glasgow, Scotland","subscribers","Archive","BBC Archive Development",TRUE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Archive","ajtucker","Birmingham, UK","subscribers","Archive",NA,FALSE,1,"United Kingdom","Birmingham","Birmingham, West Midlands, UK",52.486243,-1.890401
+"Archive","BenShowers","London, UK","subscribers","Archive","Cabinet Office",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Archive","alicraigmile","Fairlie, North Ayrshire","subscribers","Archive",NA,FALSE,1,"United Kingdom","Fairlie","Fairlie, North Ayrshire, UK",55.757375,-4.853477
+"Archive","cgueret","Amsterdam","subscribers","Archive","DANS",FALSE,1,"Netherlands","Amsterdam","Amsterdam, Netherlands",52.3702157,4.8951679
+"Archive","ianibo","Sheffield, UK","subscribers","Archive","Knowledge Integration Ltd",FALSE,1,"United Kingdom","Sheffield","Sheffield, South Yorkshire, UK",53.381129,-1.470085
+"News","leostaples","London, UK","subscribers","News","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","NeN-D","japan","subscribers","News",NA,FALSE,1,"Japan","N/A","Japan",36.204824,138.252924
+"News","matth","United Kingdom","subscribers","News","BBC",TRUE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","darnould","London, UK","subscribers","News","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","steliospsarras","Athens, GR / London, UK","subscribers","News","",FALSE,1,"United Kingdom","London","Greece: Athens, London WC1B, UK",51.5192706,-0.1280978
+"News","richam23bbc","London, UK","subscribers","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","jeremytarling","London, UK","subscribers","News","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","tearna01","London, UK","subscribers","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","Guntrisoft","London, UK","subscribers","News","Guntrisoft Ltd",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","danscotton","Bath, UK","subscribers","News",NA,FALSE,1,"United Kingdom","Bath","Bath, Bath, Bath and North East Somerset, UK",51.375801,-2.3599039
+"News","stuartwakefield","Camden Town, London","subscribers","News","",FALSE,1,"United Kingdom","London","Camden Town, London NW1, UK",51.5390111,-0.1425553
+"News","matt-crazypanda","Manchester, UK","subscribers","News","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"News","Gianeo","London, UK","subscribers","News",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","pgchamberlin","London, UK","subscribers","News",NA,TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","julian-kirby","Cardiff","subscribers","News",NA,FALSE,1,"United Kingdom","Cardiff","Cardiff, Cardiff, UK",51.481581,-3.17909
+"News","mintao","Munich, Germany","subscribers","News","",FALSE,1,"Germany","Munich","Munich, Germany",48.1351253,11.5819806
+"News","fedecarg","London, UK","subscribers","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","robsquires","London, UK","subscribers","News","BBC Worldwide",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","nellynette","Ponce, PR","subscribers","News","RCE",FALSE,1,"Puerto Rico","Ponce","Ponce, Ponce, Puerto Rico",18.0110768,-66.6140616
+"News","Melinka","London, UK","subscribers","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","scalp42","San Francisco","subscribers","News","Audax Health",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"News","fgrehm","Brazil","subscribers","News","PetroFeed",FALSE,1,"Brazil","N/A","Brazil",-14.235004,-51.92528
+"News","stevenjack","London, UK","subscribers","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","nickleefly","Shanghai","subscribers","News","",FALSE,1,"China","Shanghai","Shanghai, Shanghai, China",31.230416,121.473701
+"News","Crystalh","London, UK","subscribers","News","BBC News",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","StevenTew","UK - East Midlands","subscribers","News","Thomas Cook",FALSE,1,"United Kingdom","Castle Donington","East Midlands Airport (EMA), Castle Donington, Derby, Leicestershire DE74 2SA, UK",52.829374,-1.332134
+"News","nathangochin","London, UK","subscribers","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","BogdanDogaru","London, UK","subscribers","News","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","searchs","London, UK","subscribers","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","owainlewis","UK","subscribers","News","",TRUE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","keefmoon","London, UK","subscribers","News","Data Ninjitsu",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","tmaslen","Corby","subscribers","News","BBC",TRUE,1,"United Kingdom","Corby","Corby, Northamptonshire, UK",52.4922983,-0.6842333
+"News","DaveBlooman","London, UK","subscribers","News","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","revett","London, UK","subscribers","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","khana25","London, UK","subscribers","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","andyleggett","Stirling, Scotland","subscribers","News",NA,FALSE,1,"United Kingdom","Stirling","Stirling, Stirling, Stirling, UK",56.1165227,-3.9369029
+"News","diemer","Philadelphia, PA","subscribers","News","American Bible Society",FALSE,1,"United States","Philadelphia","Philadelphia, PA, USA",39.9525839,-75.1652215
+"News","fabriziogiordano","New York, New York","subscribers","News","Vimeo",FALSE,2,"United States","New York","New York, NY, USA",40.7127837,-74.0059413
+"News","internetbird","Kfar Saba, Israel","subscribers","News","",FALSE,1,"Israel","Kefar Sava","Kefar Sava, Israel",32.178195,34.90761
+"News","joshamos","Melbourne, Australia","subscribers","News","99designs",FALSE,2,"Australia","Melbourne","Melbourne VIC, Australia",-37.814107,144.96328
+"News","cpatni","San Francisco","subscribers","News","facebook.com",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"News","nightbook","Victoria, British Columbia, Canada","subscribers","News","Allscenes Media Inc.",FALSE,1,"Canada","Victoria","Victoria, BC, Canada",48.4284207,-123.3656444
+"News","jinbin","Hangzhou, China","subscribers","News","alibaba ",FALSE,1,"China","Hangzhou","Hangzhou, Zhejiang, China",30.274085,120.15507
+"News","paladin74","Guangzhou, China","subscribers","News","DCI",FALSE,1,"China","Guangzhou","Guangzhou, Guangdong, China",23.12911,113.264385
+"News","zouchuanwei","Wuhan, China","subscribers","News","BainaInfo",FALSE,1,"China","Wuhan","Wuhan, Hubei, China",30.593099,114.305393
+"News","Kobe","Berlin","subscribers","News","",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"News","allengaller","Shenzhen, China","subscribers","News","SNSSHOP",FALSE,1,"China","Shenzhen","Shenzhen, Guangdong, China",22.543099,114.057868
+"News","gnclmorais","Portugal","subscribers","News","Recurse Center",FALSE,1,"Portugal","N/A","Portugal",39.399872,-8.224454
+"News","sarafs","London, UK","subscribers","News","BBC Future Media",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","aetherical","Columbus, OH, USA","subscribers","News","Aetherical",FALSE,1,"United States","Columbus","Columbus, OH, USA",39.9611755,-82.9987942
+"News","luddep","San Francisco","subscribers","News","Stripe",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"News","stefano-belloro","London, UK","subscribers","News","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","Tarqwyn","England, South Coast","subscribers","News","BBC News",FALSE,9,"United Kingdom","Weymouth","South Coast Leather, 72 The Esplanade, Weymouth, Dorset DT4 7AA, UK",50.6120539,-2.4540903
+"News","sophiacodes","London, UK","subscribers","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","BBCNews","London, UK","subscribers","News","BBC News",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","dwoodel","London, UK","subscribers","News","Demon Developers Ltd",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","kenoir","London, UK","subscribers","News","The Guardian",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","owensp","NBH","subscribers","News","BBC",FALSE,1,"Australia","Nambucca Heads","Nambucca Heads Airport (NBH), Nambucca Heads NSW 2448, Australia",-30.6759807,152.9824978
+"News","cookiescrumbs","Manchester","subscribers","News","BBC",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"News","willmetcalf","London, UK","subscribers","News","BBC WS Responsive",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","codecandies","Hamburg, Germany","subscribers","News","ZEIT ONLINE",FALSE,1,"Germany","Hamburg","Hamburg, Germany",53.5510846,9.9936818
+"News","djadriano","Brazil","subscribers","News","R/GA",FALSE,1,"Brazil","N/A","Brazil",-14.235004,-51.92528
+"News","jsethi","Toronto","subscribers","News",NA,FALSE,2,"Canada","Toronto","Toronto, ON, Canada",43.653226,-79.3831843
+"News","nullpuppy","Bothell, WA","subscribers","News",NA,FALSE,1,"United States","Bothell","Bothell, WA, USA",47.7623204,-122.2054035
+"News","kristerkari","Helsinki, Finland","subscribers","News",NA,FALSE,2,"Finland","Helsinki","00100 Helsinki, Finland",60.1733244,24.9410248
+"News","mayulu","Shanghai","subscribers","News","ISV",FALSE,1,"China","Shanghai","Shanghai, Shanghai, China",31.230416,121.473701
+"News","aguicode","beijing","subscribers","News","easou, inc",FALSE,1,"China","Beijing","Beijing, Beijing, China",39.904211,116.407395
+"News","igponce","Madrid, Spain","subscribers","News",NA,FALSE,3,"Spain","Madrid","Madrid, Madrid, Spain",40.4167754,-3.7037902
+"News","maleghast","Sevenoaks, UK","subscribers","News","ScholaNoctis Ltd.",FALSE,1,"United Kingdom","Sevenoaks","Sevenoaks, Sevenoaks, Kent, UK",51.27241,0.190898
+"News","leimdorfer","London, UK","subscribers","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","xandmaga","Belo Horizonte - Minas Gerais, Brazil","subscribers","News","Sílex Sistemas",FALSE,1,"Brazil","Belo Horizonte","Belo Horizonte - State of Minas Gerais, Brazil",-19.9166813,-43.9344931
+"News","knorrium","San Francisco Bay Area","subscribers","News","Yahoo!",FALSE,2,"United States","N/A","San Francisco Bay Area, CA, USA",37.9994669,-122.174605
+"News","hunslater","Budapest","subscribers","News",NA,FALSE,1,"Hungary","Budapest","Budapest, Hungary",47.497912,19.040235
+"News","diproart","Russia","subscribers","News","DIERA.RU",FALSE,1,"Russia","N/A","Russia",61.52401,105.318756
+"News","davestacey","Colorado","subscribers","News","davidstacey.com",FALSE,1,"United States","N/A","Colorado, USA",39.5500507,-105.7820674
+"News","gmeluski","New York","subscribers","News",NA,FALSE,2,"United States","New York","New York, NY, USA",40.7127837,-74.0059413
+"News","mymaneesh","Bangalore","subscribers","News",NA,FALSE,1,"India","Bengaluru","Bengaluru, Karnataka, India",12.9715987,77.5945627
+"News","jahid32","Bangladesh","subscribers","News",NA,FALSE,1,"Bangladesh","N/A","Bangladesh",23.684994,90.356331
+"News","jirka8","Svepravice","subscribers","News","web8.cz",FALSE,1,"Czech Republic","Svépravice","Svépravice, Czech Republic",49.4955941,15.2326925
+"News","saherneklawy","Cairo, Egypt","subscribers","News","",FALSE,1,"Egypt","Cairo","Cairo, Cairo Governorate, Egypt",30.0444196,31.2357116
+"News","davidsearle","United Kingdom","subscribers","News","Cosma Consulting Ltd",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","insaneisnotfree","Puebla","subscribers","News","softlitemx",FALSE,1,"Mexico","Puebla","Puebla, Puebla, Mexico",19.0412967,-98.2061996
+"News","neonstalwart","nashville, tn","subscribers","News","gener.us",FALSE,1,"United States","Nashville","Nashville, TN, USA",36.1626638,-86.7816016
+"News","andrewccadman","UK","subscribers","News",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","martinmcloughlin","United Kingdom","subscribers","News","Spindrift Group",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","cust0dian","St. Petersburg, Russian Federation","subscribers","News","",FALSE,1,"Russia","Saint Petersburg","Saint Petersburg, Russia",59.9342802,30.3350986
+"News","anthonycosgrave","Dublin","subscribers","News","",FALSE,6,"Ireland","Dublin","Dublin, Ireland",53.3498053,-6.2603097
+"News","KSmithers","New Broadcasting House","subscribers","News","BBC",FALSE,1,"United Kingdom","Manchester","New Broadcasting House, Manchester, Manchester M1, UK",53.4728799,-2.2389909
+"News","injectedMonkey","Germany","subscribers","News","",FALSE,1,"Germany","N/A","Germany",51.165691,10.451526
+"News","mcanthony","United States","subscribers","News","defconcepts limited",FALSE,1,"United States","N/A","United States",37.09024,-95.712891
+"News","xcf33","Washington, DC","subscribers","News","Propeople",FALSE,1,"United States","Washington","Washington, DC, USA",38.9071923,-77.0368707
+"News","steveshreve","West Palm Beach, FL","subscribers","News",NA,FALSE,1,"United States","West Palm Beach","West Palm Beach, FL, USA",26.7153424,-80.0533746
+"News","nikolay","Irvine, CA, US","subscribers","News","Webgineers",FALSE,1,"United States","Irvine","Irvine, CA, USA",33.6839473,-117.7946942
+"News","evadne","Worldwide","subscribers","News","",FALSE,7,"United Kingdom","Peterborough","Worldwide House, Thorpe Wood, Peterborough, Peterborough PE3 6SB, UK",52.5708313,-0.3006158
+"News","mbarry","Sydney, Australia","subscribers","News","",FALSE,2,"Australia","Sydney","Sydney NSW, Australia",-33.8674869,151.2069902
+"News","qikkeronline","Amsterdam, Netherlands","subscribers","News","Qikker Online",FALSE,1,"Netherlands","Amsterdam","Amsterdam, Netherlands",52.3702157,4.8951679
+"News","apiadventures","Salford","subscribers","News","BBC",FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"News","rjlee","Leeds","subscribers","News","http://www.bbc.co.uk",FALSE,2,"United Kingdom","Leeds","Leeds, West Yorkshire, UK",53.8007554,-1.5490774
+"News","oncletom","London, United Kingdom","subscribers","News","BBC R&D",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","anthonybrown","Boston, MA","subscribers","News","Tony Brown Development",FALSE,1,"United States","Boston","Boston, MA, USA",42.3600825,-71.0588801
+"News","jlslew","Ottawa, ON, Canada","subscribers","News","",FALSE,1,"Canada","Ottawa","Ottawa, ON, Canada",45.4215296,-75.6971931
+"News","dendril","Argentina - Buenos Aires - Tandil","subscribers","News","Digital Umbrella",FALSE,1,"Argentina","Tandil","Tandil, Buenos Aires Province, Argentina",-37.3287999,-59.1367167
+"News","steveworkman","Reading, UK","subscribers","News","Yell",FALSE,1,"United Kingdom","Reading","Reading, Reading, Reading, UK",51.4542645,-0.9781303
+"News","chris-dura","Denver, CO","subscribers","News","",FALSE,1,"United States","Denver","Denver, CO, USA",39.7392358,-104.990251
+"News","lessthanzero","Moscow, Russian Federation","subscribers","News","Hello Computer",FALSE,3,"Russia","Moscow","Moscow, Russia",55.755826,37.6173
+"News","mochiflappe","Saitama, Japan","subscribers","News","",FALSE,2,"Japan","Saitama","Saitama, Saitama Prefecture, Japan",35.8617292,139.6454822
+"News","frontenddeveloping","Moscow","subscribers","News","",FALSE,2,"Russia","Moscow","Moscow, Russia",55.755826,37.6173
+"News","barneyp","London, UK","subscribers","News","Cheapflights Ltd",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","petraplatz","Bologna (IT)","subscribers","News","Yoox",FALSE,1,"Italy","Bologna","Bologna, Italy",44.494887,11.3426163
+"News","taboola-automation","Israel","subscribers","News","Taboola",FALSE,1,"Israel","N/A","Israel",31.046051,34.851612
+"News","Par","Atlanta","subscribers","News","",FALSE,6,"United States","Atlanta","Atlanta, GA, USA",33.7489954,-84.3879824
+"News","marshi","Tokyo","subscribers","News","",FALSE,1,"Japan","N/A","Tokyo, Japan",35.6894875,139.6917064
+"News","peruukki","Berlin, Germany","subscribers","News","",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"News","lnfnunes","Brazil","subscribers","News","CI&T",FALSE,1,"Brazil","N/A","Brazil",-14.235004,-51.92528
+"News","rbg246","London, United Kingdom","subscribers","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","frisnit","London, UK","subscribers","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","addyosmani","London, England","subscribers","News","Google",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","jonlow","Adelaide","subscribers","News","Jon Low",FALSE,2,"Australia","Adelaide","Adelaide SA, Australia",-34.9286212,138.5999594
+"News","lobototoro","france","subscribers","News","oneself",FALSE,1,"France","N/A","France",46.227638,2.213749
+"News","adsanderson","UK","subscribers","News","The Access Group",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","EricCat","China","subscribers","News","FreeLancer",FALSE,1,"China","N/A","China",35.86166,104.195397
+"News","tatsuyalam","Viet Nam","subscribers","News","",FALSE,1,"Vietnam","N/A","Vietnam",14.058324,108.277199
+"News","elvispt","Funchal","subscribers","News","Exictos",FALSE,1,"Portugal","Funchal","Funchal, Portugal",32.6669328,-16.9240554
+"News","StefanoRausch","Johannesburg - RSA","subscribers","News",NA,FALSE,8,"South Africa","Roodepoort","South Africa Drive, Roodepoort, 2188, South Africa",-26.0285932,27.9241684
+"News","v0lkan","San Fransico, CA","subscribers","News","Cisco",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"News","aaronbates","London, UK","subscribers","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","positiveque","Moscow","subscribers","News","",FALSE,2,"Russia","Moscow","Moscow, Russia",55.755826,37.6173
+"News","gazjoy","Stafford, UK","subscribers","News","iWeb",FALSE,1,"United Kingdom","Stafford","Stafford, Stafford, UK",52.806693,-2.12066
+"News","miniatureape","New York, NY","subscribers","News",NA,FALSE,1,"United States","New York","New York, NY, USA",40.7127837,-74.0059413
+"News","Jovanator","London, UK","subscribers","News",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","jeremyfelt","Pullman, WA","subscribers","News","Washington State University",FALSE,1,"United States","Pullman","Pullman, WA, USA",46.7297771,-117.1817377
+"News","IPKISS","Poland, Warsaw","subscribers","News","",FALSE,1,"Poland","Warsaw","Warsaw, Poland",52.2296756,21.0122287
+"News","pipozoft","Miami, FL","subscribers","News","Alpis",FALSE,1,"United States","Miami","Miami, FL, USA",25.7616798,-80.1917902
+"News","alemacgo","Caracas","subscribers","News","Spotify, Zazzle",FALSE,1,"Venezuela","Caracas","Caracas, Venezuela",10.4696404,-66.8037185
+"News","c00n84","Hörbranz, Austria","subscribers","News","MASSIVE ART WebServices GmbH",FALSE,1,"Austria","Hörbranz","Hörbranz, Austria",47.5557073,9.7525947
+"News","MohamedFaramawi","Egypt","subscribers","News",NA,FALSE,1,"Egypt","N/A","Egypt",26.820553,30.802498
+"News","uretgec","Turkey","subscribers","News",NA,FALSE,1,"Turkey","N/A","Turkey",38.963745,35.243322
+"News","Benxamin","Salt Lake City, Utah","subscribers","News","O.C Tanner",FALSE,1,"United States","Salt Lake City","Salt Lake City, UT, USA",40.7607793,-111.8910474
+"News","illusori","Bristol, UK","subscribers","News",NA,FALSE,1,"United Kingdom","Bristol","Bristol, City of Bristol, UK",51.454513,-2.58791
+"News","iliakolev","Plovdiv, Bulgaria","subscribers","News","Jinx Factory",FALSE,1,"Bulgaria","Plovdiv","Plovdiv, Bulgaria",42.1354079,24.7452904
+"News","akbarwibawa","jogja, indonesia","subscribers","News",NA,FALSE,2,"Indonesia","N/A","Special Region of Yogyakarta, Indonesia",-7.7975915,110.3707141
+"News","nerdfiles","Planet Earth","subscribers","News","The Coinsultants",FALSE,1,"United Kingdom","Poynton","Planet Earth, Middlewood Road, Poynton, Stockport, Cheshire SK12 1TX, UK",53.3570177,-2.0853567
+"News","hiso","taipei","subscribers","News","",FALSE,1,"Taiwan","Taipei","Taipei, Taiwan",25.0329694,121.5654177
+"News","carlosduarte","Portugal","subscribers","News",NA,FALSE,1,"Portugal","N/A","Portugal",39.399872,-8.224454
+"News","mindctrl","South Carolina","subscribers","News","",FALSE,1,"United States","N/A","South Carolina, USA",33.836081,-81.1637245
+"News","nhoizey","Paris, France","subscribers","News","Clever Age",FALSE,2,"France","Paris","Paris, France",48.856614,2.3522219
+"News","netconstructor","San Diego, CA","subscribers","News","NetConstructor.com",FALSE,1,"United States","San Diego","San Diego, CA, USA",32.715738,-117.1610838
+"News","mikejoseph","Lansing, MI, USA","subscribers","News","The State News",FALSE,2,"United States","Lansing","Lansing, MI, USA",42.732535,-84.5555347
+"News","andreisebastianc","Cluj, Romania","subscribers","News","",FALSE,1,"Romania","Cluj-Napoca","Cluj-Napoca, Romania",46.766667,23.583333
+"News","NeoCN","厦门","subscribers","News",NA,FALSE,1,"China","Xiamen","Xiamen, Fujian, China",24.479834,118.089425
+"News","andycaramba","Tashkent","subscribers","News",NA,FALSE,1,"Uzbekistan","Tashkent","Tashkent, Uzbekistan",41.266667,69.216667
+"News","chriswrightdesign","Sydney, Australia","subscribers","News","",FALSE,2,"Australia","Sydney","Sydney NSW, Australia",-33.8674869,151.2069902
+"News","galvogalvo","London, UK","subscribers","News","Wolff Olins",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","adamaoc","Dallas, Texas","subscribers","News","Dialexa",FALSE,1,"United States","Dallas","Dallas, TX, USA",32.7766642,-96.7969879
+"News","mnich","Poland, Milanowek","subscribers","News","Nopattern Sp. z o.o.",FALSE,1,"Poland","Milanówek","Milanówek, Poland",52.1185315,20.6716234
+"News","rossbruniges","London, UK","subscribers","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","neilbradley","Lincoln, United Kingdom","subscribers","News","",FALSE,1,"United Kingdom","Lincoln","Lincoln, Lincoln, UK",53.230688,-0.540579
+"News","fortywinkz","dnepropetrovsk, ukraine","subscribers","News",NA,FALSE,1,"Ukraine","Dnepropetrovsk","Dnepropetrovsk, Dnipropetrovsk Oblast, Ukraine",48.464717,35.046183
+"News","tarnic","Akron, Ohio","subscribers","News","",FALSE,1,"United States","Akron","Akron, OH, USA",41.0814447,-81.5190053
+"News","stefanjudis","Berlin","subscribers","News","",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"News","lmignot","Milton Keynes, UK","subscribers","News","Santander",FALSE,2,"United Kingdom","Milton Keynes","Milton Keynes, Milton Keynes, Milton Keynes, UK",52.0406224,-0.7594171
+"News","joshbenham","Australia","subscribers","News",NA,FALSE,1,"Australia","N/A","Australia",-25.274398,133.775136
+"News","maboa","Florence, Italy","subscribers","News","Happyworm Ltd",FALSE,1,"Italy","Florence","Florence, Italy",43.7695604,11.2558136
+"News","saas786","Pakistan","subscribers","News","",FALSE,1,"Pakistan","N/A","Pakistan",30.375321,69.345116
+"News","juliennicouleaud","France, FR","subscribers","News",NA,FALSE,1,"France","N/A","France",46.227638,2.213749
+"News","th3d0g","United Kingdom","subscribers","News","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","quoth","Tokyo, JP","subscribers","News",NA,FALSE,1,"Japan","N/A","Tokyo, Japan",35.6894875,139.6917064
+"News","madebymats","Sweden","subscribers","News","",FALSE,1,"Sweden","N/A","Sweden",60.128161,18.643501
+"News","DiegoPires","São Paulo, Brasil","subscribers","News","Diego Pires Tecnologia da Informação Ltda",FALSE,6,"Brazil","São Paulo","São Paulo - State of São Paulo, Brazil",-23.5505199,-46.6333094
+"News","NARKOZ","Baku, Azerbaijan","subscribers","News","Ennis Labs",FALSE,1,"Azerbaijan","Baku","Baku, Azerbaijan",40.4092617,49.8670924
+"News","cyberprune","London, UK","subscribers","News",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","m0nkey","Atlanta, GA","subscribers","News","Cox Media Group",FALSE,1,"United States","Atlanta","Atlanta, GA, USA",33.7489954,-84.3879824
+"News","stigkj","Oslo, Norway","subscribers","News","FINN.no",FALSE,1,"Norway","Oslo","Oslo, Norway",59.9138688,10.7522454
+"News","trollsyn","Trondheim, Norway","subscribers","News","",FALSE,1,"Norway","Trondheim","Trondheim, Norway",63.4305149,10.3950528
+"News","sergiodlopes","Portugal","subscribers","News","",FALSE,1,"Portugal","N/A","Portugal",39.399872,-8.224454
+"News","arnalyse","Hamburg, Germany","subscribers","News",NA,FALSE,1,"Germany","Hamburg","Hamburg, Germany",53.5510846,9.9936818
+"News","sarafec","Seattle,WA","subscribers","News","",FALSE,1,"United States","Seattle","Seattle, WA, USA",47.6062095,-122.3320708
+"News","dhinus","London, United Kingdom","subscribers","News","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","nelga","Sydney, NSW, Australia","subscribers","News","Nelga Digital Design & Development",FALSE,2,"Australia","Sydney","Sydney NSW, Australia",-33.8674869,151.2069902
+"News","reubenscratton","United Kingdom","subscribers","News","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","dgm34","London, UK","subscribers","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","kieranblight","London, UK","subscribers","News","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","jamesdonoh","London, UK","subscribers","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","bundance","UK","subscribers","News","Codernetic Ltd",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","pris54","London, UK","subscribers","News","pris54 limited",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","mikebgithub","BC5 D3","subscribers","News",NA,FALSE,1,"Philippines","Angeles","Business Center 5, Clark Freeport Philippines, Angeles, 2023 Pampanga, Philippines",15.1766225,120.5308331
+"News","mrsinguyen","Ho Chi Minh, Vietnam","subscribers","News","GO1",FALSE,1,"Vietnam","Ho Chi Minh City","Ho Chi Minh City, Ho Chi Minh, Vietnam",10.8230989,106.6296638
+"News","dawogfather","Brisbane AU","subscribers","News","4impact",FALSE,2,"Australia","Brisbane","Brisbane QLD, Australia",-27.4710107,153.0234489
+"News","RootMale","Харьков","subscribers","News","X1",FALSE,1,"Ukraine","Kharkiv","Kharkiv, Kharkiv Oblast, Ukraine",49.9935,36.230383
+"News","completedespair","London, NW1","subscribers","News","BBC",FALSE,1,"United Kingdom","London","London NW1, UK",51.5306872,-0.146932
+"News","arden","深圳市龙华新区民治天虹商场恒润小居726","subscribers","News","深圳市土椒科技有限公司",FALSE,1,"China","Shenzhen","Shenzhen, Guangdong, China",22.543099,114.057868
+"News","pulcix","Italy","subscribers","News","Muse Comunicazione",FALSE,1,"Italy","N/A","Italy",41.87194,12.56738
+"News","YoungElPaso","Montreal","subscribers","News","McGill University",FALSE,1,"Canada","Montreal","Montreal, QC, Canada",45.5016889,-73.567256
+"News","nishchith","Mumbai","subscribers","News","CG",FALSE,1,"India","Mumbai","Mumbai, Maharashtra, India",19.0759837,72.8776559
+"News","BPScott","London, UK","subscribers","News","BBC Future Media",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","robinjmurphy","London, UK","subscribers","News","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","micmath","UK","subscribers","News","BBC",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","conormcafee","United Kingdom","subscribers","News","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","kentonprice","London, UK","subscribers","News","Little Fluffy Toys Ltd",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","chelozzz","London, UK","subscribers","News","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","cejast","London, UK","subscribers","News","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","waldbach","Netherlands","subscribers","News","waldbach",FALSE,1,"Netherlands","N/A","Netherlands",52.132633,5.291266
+"News","oddnumber","United Kingdom","subscribers","News","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","VictoriaBarrett","United Kingdom","subscribers","News","BBC iPlayer",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","flatnine","London, UK","subscribers","News",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","ndrew","Ukraine, Kyiv","subscribers","News",NA,FALSE,1,"Ukraine","Kyiv","Kyiv, Ukraine",50.4501,30.5234
+"News","iaincollins","London, UK","subscribers","News","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","zelig","London, UK","subscribers","News","Übergeek Unlimited - freelance software engineer, data and information system architect",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","lucaspirola","São Paulo, Brazil","subscribers","News","Núcleo Digital",FALSE,6,"Brazil","São Paulo","São Paulo - State of São Paulo, Brazil",-23.5505199,-46.6333094
+"News","jrcryer","Cardiff UK","subscribers","News","BBC",TRUE,1,"United Kingdom","Cardiff","Cardiff, Cardiff, UK",51.481581,-3.17909
+"News","sytpp","London, UK","subscribers","News","Hoodiejournalismus",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","karls","London, UK","subscribers","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","basilesimon","London, UK","subscribers","News","BBC News Lab",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","maxharlow","London, UK","subscribers","News","The Bureau of Investigative Journalism",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","jlevesy","San Francisco","subscribers","News","Upfluence",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"News","chazu","Inkopolis","subscribers","News","",FALSE,0,NA,NA,NA,NA,NA
+"News","jerrygaoLondon","Sheffield","subscribers","News","University of Sheffield",FALSE,1,"United Kingdom","Sheffield","Sheffield, South Yorkshire, UK",53.381129,-1.470085
+"News","Casyfill","Moscow","subscribers","News","Rambler Studio of infographics",FALSE,2,"Russia","Moscow","Moscow, Russia",55.755826,37.6173
+"News","leihelondon","United Kingdom","subscribers","News","BBC News Lab",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","diablourbano","Montevideo","subscribers","News","13Floor",FALSE,1,"Uruguay","Montevideo","Montevideo, Uruguay",-34.9011127,-56.1645314
+"News","timcowlishaw","London, UK","subscribers","News","Itinerant software and data wonk-for-hire.",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","alexnorton","London, UK","subscribers","News","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","Cgg","Paris, France","subscribers","News","Aldebaran",FALSE,2,"France","Paris","Paris, France",48.856614,2.3522219
+"News","maxlimpag","Cebu City","subscribers","News","InnoPub",FALSE,1,"Philippines","Cebu City","Cebu City, Cebu, Philippines",10.3156992,123.8854366
+"News","liudong","Manchester, United Kingdom","subscribers","News","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"News","rosario","London, UK","subscribers","News","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","giuseppefutia","Turin, Italy","subscribers","News","Nexa Center for Internet & Society - Politecnico di Torino",FALSE,5,"Italy","Turin","Turin, Italy",45.070312,7.6868565
+"News","DavidBruant","Bordeaux, France","subscribers","News","",FALSE,1,"France","Bordeaux","Bordeaux, France",44.837789,-0.57918
+"News","jacobmiller","Austin, Texas","subscribers","News","",FALSE,1,"United States","Austin","Austin, TX, USA",30.267153,-97.7430608
+"News","m0nkmaster","Yorkshire","subscribers","News","BBC Sport",FALSE,1,"United States","Yorkshire","Yorkshire, VA, USA",38.7931699,-77.4477662
+"News","mzmiric5","Manchester, UK","subscribers","News","The Foot Injury Clan Ltd.",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"News","Josephwalker","Huddersfield","subscribers","News","BBC Sport",FALSE,1,"United Kingdom","Huddersfield","Huddersfield, West Yorkshire, UK",53.645792,-1.785035
+"News","clairejohnson","United Kingdom","subscribers","News","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","mike390","Salford","subscribers","News","BBC",FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"News","francisstevens","Salford","subscribers","News","BBC Sport",FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"News","JohnBogart","Salford","subscribers","News","BBC",TRUE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"News","NatalieWaddie","Salford","subscribers","News","BBC Sport",FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"News","jameswragg","Brighton, UK","subscribers","News",NA,FALSE,1,"United Kingdom","Brighton","Brighton, The City of Brighton and Hove, UK",50.82253,-0.137163
+"News","MichaelKryworuk","Manchester","subscribers","News","BBC",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"News","alexcolbeck","Quay House","subscribers","News","BBC",FALSE,8,"United Kingdom","Bridlington","Quay House, 65 Quay Road, Bridlington, East Riding of Yorkshire YO16 4EL, UK",54.0873526,-0.2026739
+"News","Pikuseru","Manchester","subscribers","News","",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"News","matthew1000","Manchester, United Kingdon","subscribers","News","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"News","murphyj","Manchester, UK","subscribers","News","",TRUE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"News","shaunbent","Preston, United Kingdom","subscribers","News","BBC",TRUE,1,"United Kingdom","Preston","Preston, Preston, Lancashire, UK",53.763201,-2.70309
+"News","jameshd","Chester","subscribers","News","",FALSE,6,"United Kingdom","Chester","Chester, Chester, Cheshire West and Chester, UK",53.193392,-2.893075
+"News","mirdinj","The Moon","subscribers","News",NA,FALSE,1,"United States","Moon","Moon, PA, USA",40.5169767,-80.2213477
+"News","peterdudbridge","Manchester","subscribers","News","BBC",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"News","riccraig"," ","subscribers","News",NA,FALSE,0,NA,NA,NA,NA,NA
+"News","mackstar","Leeds, UK","subscribers","News",NA,FALSE,2,"United Kingdom","Leeds","Leeds, West Yorkshire, UK",53.8007554,-1.5490774
+"News","samuel-yau","Salford","subscribers","News","BBC Sports",FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"News","GForcesJamesWilson","United Kingdom","subscribers","News","GForces ",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","chemsoc","Maidstone","subscribers","News","GForces",FALSE,1,"United Kingdom","Maidstone","Maidstone, Maidstone, Kent, UK",51.270363,0.522699
+"News","dansumption","Sheffield, UK","subscribers","News","The Invisibles",FALSE,1,"United Kingdom","Sheffield","Sheffield, South Yorkshire, UK",53.381129,-1.470085
+"News","bongoYo","United Kingdom","subscribers","News","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","fewstera","London, UK","subscribers","News","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"News","nassosstylianou","United Kingdom","subscribers","News","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"News","sallymorales","New Broadcasting House, London","subscribers","News","BBC",FALSE,4,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","cathawker","Glasgow","subscribers","Production","BBC",FALSE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Production","darnould","London, UK","subscribers","Production","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","JohnBogart","Salford","subscribers","Production","BBC",TRUE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"Production","maheshjajadabbc","Glasgow, UK","subscribers","Production","Mindtree",FALSE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Production","stevenjack","London, UK","subscribers","Production","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","weejames","Glasgow","subscribers","Production","BBC",TRUE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Production","intih","Glasgow","subscribers","Production","BBC",FALSE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Production","charlier","UK","subscribers","Production",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","revett","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","stuartwakefield","Camden Town, London","subscribers","Production","",FALSE,1,"United Kingdom","London","Camden Town, London NW1, UK",51.5390111,-0.1425553
+"Production","mrwillihog","London, UK","subscribers","Production","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","apiadventures","Salford","subscribers","Production","BBC",FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"Production","Litesmth","White City","subscribers","Production","BBC",FALSE,6,"United States","White City","White City, OR, USA",42.431618,-122.8354426
+"Production","gav-barton","Salford","subscribers","Production","BBC",FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"Production","nickbrownlow","NBH","subscribers","Production","BBC",FALSE,1,"Australia","Nambucca Heads","Nambucca Heads Airport (NBH), Nambucca Heads NSW 2448, Australia",-30.6759807,152.9824978
+"Production","samhurst","London, UK","subscribers","Production","BBC R&D",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","davidjwbbc","MediaCityUK, Salford, England","subscribers","Production","British Broadcasting Corporation",TRUE,2,"United Kingdom","Salford","The Greenhouse, MediaCityUK, 111 Broadway, Salford, Salford M50 2EQ, UK",53.4731054,-2.2971725
+"Production","LPardue","London, UK","subscribers","Production","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","pgchamberlin","London, UK","subscribers","Production",NA,TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","jmaciasluque","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","cejast","London, UK","subscribers","Production","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","Paul-Ladyman","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","DaveNorris","White City","subscribers","Production","BBC",FALSE,6,"United States","White City","White City, OR, USA",42.431618,-122.8354426
+"Production","burzuk","London, UK","subscribers","Production",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","tmaslen","Corby","subscribers","Production","BBC",TRUE,1,"United Kingdom","Corby","Corby, Northamptonshire, UK",52.4922983,-0.6842333
+"Production","zya","London, UK","subscribers","Production",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","BogdanDogaru","London, UK","subscribers","Production","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","joelio","Manchester, UK","subscribers","Production",NA,FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","SimonS","Manchester, UK","subscribers","Production","BBC",TRUE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","rjlee","Leeds","subscribers","Production","http://www.bbc.co.uk",FALSE,2,"United Kingdom","Leeds","Leeds, West Yorkshire, UK",53.8007554,-1.5490774
+"Production","kenoir","London, UK","subscribers","Production","The Guardian",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","claudioneves","Western House","subscribers","Production","BBC",FALSE,11,"Hong Kong","N/A","Western House, 164-170 Des Voeux Road West, Sai Ying Pun, Hong Kong",22.2876694,114.1439885
+"Production","alicraigmile","Fairlie, North Ayrshire","subscribers","Production",NA,FALSE,1,"United Kingdom","Fairlie","Fairlie, North Ayrshire, UK",55.757375,-4.853477
+"Production","paulmc","glasgow","subscribers","Production","www.datacreations.co.uk",FALSE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Production","ankurmishrabbc","Salford","subscribers","Production","BBC",FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"Production","Enkerli","Montreal","subscribers","Production",NA,FALSE,1,"Canada","Montreal","Montreal, QC, Canada",45.5016889,-73.567256
+"Production","randombitsUK","Glasgow","subscribers","Production","BBC",FALSE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Production","matthewthms","MediaCityUK","subscribers","Production","BBC",FALSE,2,"United Kingdom","Salford","The Greenhouse, MediaCityUK, 111 Broadway, Salford, Salford M50 2EQ, UK",53.4731054,-2.2971725
+"Production","jak","UK","subscribers","Production","MOO",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","middric","Buckinghamshire","subscribers","Production","Witchert",FALSE,1,"United Kingdom","N/A","Buckinghamshire, UK",51.8072204,-0.8127664
+"Production","gauravmscIT","London, UK","subscribers","Production","Thomson Reuters",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","steliospsarras","Athens, GR / London, UK","subscribers","Production","",FALSE,1,"United Kingdom","London","Greece: Athens, London WC1B, UK",51.5192706,-0.1280978
+"Production","anthonygreen","London, UK","subscribers","Production","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","robinjmurphy","London, UK","subscribers","Production","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","johnsoncheng","San Francisco","subscribers","Production","",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"Production","betandr","London ","subscribers","Production","BBC",TRUE,4,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","xepps","Manchester, GB","subscribers","Production","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","eemmzz","Great Sankey, Warrington","subscribers","Production","",FALSE,1,"United Kingdom","Great Sankey","Great Sankey, Warrington, UK",53.391619,-2.642842
+"Production","njh","London, UK","subscribers","Production","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","mgurgel","London, UK","subscribers","Production","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","sara89sgm","London, UK","subscribers","Production","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","nicangeli","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","merlinlondon","London, UK","subscribers","Production","Denma Digital Development Limited",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","Jayflux","London, England","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","memsb","UK","subscribers","Production","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","SwatiTabib","LONDON","subscribers","Production","",FALSE,4,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","lehmam03","8th Floor NBH","subscribers","Production","BBC",FALSE,1,"Australia","Nambucca Heads","Nambucca Heads Airport (NBH), Nambucca Heads NSW 2448, Australia",-30.6759807,152.9824978
+"Production","steveculverwell","london","subscribers","Production","bbc",FALSE,4,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","helenou","London, UK","subscribers","Production","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","madhusunke","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","PoornimaGunisetti","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","mikechapman101","United Kingdom","subscribers","Production","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","murphyj","Manchester, UK","subscribers","Production","",TRUE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","r-singh","London, UK","subscribers","Production","Contractor",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","geoffadams","UK","subscribers","Production","BBC",TRUE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","djorak","Glasgow","subscribers","Production","BBC",TRUE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Production","stuartmemo","Glasgow, Scotland","subscribers","Production","",FALSE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Production","davecates","Sheffield, UK","subscribers","Production","Redemption Media",FALSE,1,"United Kingdom","Sheffield","Sheffield, South Yorkshire, UK",53.381129,-1.470085
+"Production","jerrykramskoy","BBC R&D South Labs","subscribers","Production","BBC",FALSE,30,"Egypt","N/A","B.b.c, El-Salam Sharkeya, Qism El-Salam, Cairo Governorate, Egypt",30.1624311,31.4238019
+"Production","katie-roberts","Manchester","subscribers","Production","BBC",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","rjb1000","London, UK","subscribers","Production","BBC R&D",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","davmacbea","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","nightbook","Victoria, British Columbia, Canada","subscribers","Production","Allscenes Media Inc.",FALSE,1,"Canada","Victoria","Victoria, BC, Canada",48.4284207,-123.3656444
+"Production","mursya","Moscow","subscribers","Production","Yandex",FALSE,2,"Russia","Moscow","Moscow, Russia",55.755826,37.6173
+"Production","shaunbent","Preston, United Kingdom","subscribers","Production","BBC",TRUE,1,"United Kingdom","Preston","Preston, Preston, Lancashire, UK",53.763201,-2.70309
+"Production","Pikuseru","Manchester","subscribers","Production","",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","jameshd","Chester","subscribers","Production","",FALSE,6,"United Kingdom","Chester","Chester, Chester, Cheshire West and Chester, UK",53.193392,-2.893075
+"Production","Josephwalker","Huddersfield","subscribers","Production","BBC Sport",FALSE,1,"United Kingdom","Huddersfield","Huddersfield, West Yorkshire, UK",53.645792,-1.785035
+"Production","mike390","Salford","subscribers","Production","BBC",FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"Production","craigtaub","London, UK","subscribers","Production",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","oddnumber","United Kingdom","subscribers","Production","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","jrosser","Manchester","subscribers","Production","BBC R&D",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","iamtmrobinson","Manchester, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","pustav02","White City- London","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","White City, London, UK",51.5134357,-0.2323103
+"Production","matt-hammond-bbc","London, United Kingdom","subscribers","Production","British Broadcasting Corporation",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","mirdinj","The Moon","subscribers","Production",NA,FALSE,1,"United States","Moon","Moon, PA, USA",40.5169767,-80.2213477
+"Production","desaintmartin","Paris, France","subscribers","Production","France Télévisions",FALSE,2,"France","Paris","Paris, France",48.856614,2.3522219
+"Production","abisset","United Kingdom","subscribers","Production","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","tomkershaw-bbc","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","suzannehamilton","London, UK","subscribers","Production","Softwire",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","hgcummings","London, UK","subscribers","Production","Softwire",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","hugh-emerson","London, UK","subscribers","Production","Softwire",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","SimonStJG","London, UK","subscribers","Production","Softwire",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","dan-gibson","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","MrPeterRichmond","London, United Kingdom","subscribers","Production","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","binaryape","Manchester, UK","subscribers","Production","Digital Identity Ltd",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","jrmhaig","UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","jrcryer","Cardiff UK","subscribers","Production","BBC",TRUE,1,"United Kingdom","Cardiff","Cardiff, Cardiff, UK",51.481581,-3.17909
+"Production","bestscarper","United Kingdom","subscribers","Production","BBC",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","henryrojas","United Kingdom","subscribers","Production","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","shashikantjagtap","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","Leyths","London, UK","subscribers","Production","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","joshrp","London, UK","subscribers","Production","JustPark",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","alboley","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","miguelgonz","London, UK","subscribers","Production","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","kopalk","London, UK","subscribers","Production","British Broadcasting Corporation",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","dariuszwiktorek","London, UK","subscribers","Production","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","AnkushBBC","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","markturner","Cardiff","subscribers","Production","BBC",FALSE,1,"United Kingdom","Cardiff","Cardiff, Cardiff, UK",51.481581,-3.17909
+"Production","Qambar","London, England","subscribers","Production","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","m0nkmaster","Yorkshire","subscribers","Production","BBC Sport",FALSE,1,"United States","Yorkshire","Yorkshire, VA, USA",38.7931699,-77.4477662
+"Production","cookiescrumbs","Manchester","subscribers","Production","BBC",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","peterdudbridge","Manchester","subscribers","Production","BBC",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","riccraig"," ","subscribers","Production",NA,FALSE,0,NA,NA,NA,NA,NA
+"Production","discodavey","Cambridge/London","subscribers","Production",NA,FALSE,30,"United States","N/A","Cambridge, WI, USA",42.9960166,-89.0370477
+"Production","iparr","Sheffield","subscribers","Production",NA,FALSE,1,"United Kingdom","Sheffield","Sheffield, South Yorkshire, UK",53.381129,-1.470085
+"Production","MichaelKryworuk","Manchester","subscribers","Production","BBC",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","clairejohnson","United Kingdom","subscribers","Production","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","maxseabrooke","Manchester","subscribers","Production","BBC",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","supermethod","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","dhinus","London, United Kingdom","subscribers","Production","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","danielgonzalezbbc","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","rich13","London, UK","subscribers","Production",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","tspear","Dorking, Surrey.","subscribers","Production","Freelance.",FALSE,1,"United Kingdom","Dorking","Dorking, Dorking, Surrey, UK",51.232202,-0.332378
+"Production","BBCNews","London, UK","subscribers","Production","BBC News",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","NatalieWaddie","Salford","subscribers","Production","BBC Sport",FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"Production","AndrewVos","London, UK","subscribers","Production","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","LloydW93","UK","subscribers","Production","British Broadcasting Corporation",TRUE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","JoseAlban","London / UK","subscribers","Production","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","kuking","Planet Earth","subscribers","Production","",FALSE,1,"United Kingdom","Poynton","Planet Earth, Middlewood Road, Poynton, Stockport, Cheshire SK12 1TX, UK",53.3570177,-2.0853567
+"Production","joe-taylor-bbc","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","clementallen","London, UK","subscribers","Production","Accenture",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","dgm34","London, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","elf-pavlik","#nomadic","subscribers","Production","hackers4peace",FALSE,0,NA,NA,NA,NA,NA
+"Production","AndrewKeig","London, UK","subscribers","Production","airasoul",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","Crystalh","London, UK","subscribers","Production","BBC News",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","adamjc","UK","subscribers","Production","",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","56yards","Cardiff","subscribers","Production",NA,FALSE,1,"United Kingdom","Cardiff","Cardiff, Cardiff, UK",51.481581,-3.17909
+"Production","liudong","Manchester, United Kingdom","subscribers","Production","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","matthew1000","Manchester, United Kingdon","subscribers","Production","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","mzmiric5","Manchester, UK","subscribers","Production","The Foot Injury Clan Ltd.",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","robsquires","London, UK","subscribers","Production","BBC Worldwide",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","matt-crazypanda","Manchester, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","leostaples","London, UK","subscribers","Production","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","kieranblight","London, UK","subscribers","Production","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","francisstevens","Salford","subscribers","Production","BBC Sport",FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"Production","alexcolbeck","Quay House","subscribers","Production","BBC",FALSE,8,"United Kingdom","Bridlington","Quay House, 65 Quay Road, Bridlington, East Riding of Yorkshire YO16 4EL, UK",54.0873526,-0.2026739
+"Production","peterandall","London, UK","subscribers","Production",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","ruiposse","London, UK","subscribers","Production","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","keefmoon","London, UK","subscribers","Production","Data Ninjitsu",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Production","twalve","Sydney","subscribers","Production","machine:tag",FALSE,2,"Australia","Sydney","Sydney NSW, Australia",-33.8674869,151.2069902
+"Production","Alive-AttemptTheLifeGangHouse","45.435313900, -75.609153500","subscribers","Production","Attempt The Life GangHouse",FALSE,1,"Canada","Ottawa","1078 Blair Road, Gloucester, ON K1J 7N2, Canada",45.4354479,-75.6095099
+"Production","LarsGrevelink","Amsterdam Area, The Netherlands","subscribers","Production","24i",FALSE,2,"Netherlands","Amsterdam","Grey Area Coffeeshop, Oude Leliestraat 2, 1015 AW Amsterdam, Netherlands",52.3747541,4.8886084
+"Production","cpplover","Seongnam","subscribers","Production","",FALSE,1,"South Korea","Seongnam-si","Seongnam-si, Gyeonggi-do, South Korea",37.4449168,127.1388684
+"Production","landeiro","Lisbon","subscribers","Production","RTP - Portuguese Public TV/Radio Broadcaster",FALSE,1,"Portugal","Lisbon","Lisbon, Portugal",38.7222524,-9.1393366
+"Production","bskorupski","Poznan","subscribers","Production","",FALSE,1,"Poland","Poznań","Poznań, Poland",52.406374,16.9251681
+"Production","egg-","Seoul","subscribers","Production","MAD Square Inc.",FALSE,1,"South Korea","Seoul","Seoul, South Korea",37.566535,126.9779692
+"Production","ianarundale","London/Manchester","subscribers","Production","British Broadcasting Corporation",TRUE,1,"United States","London","Manchester Road, London, KY, USA",37.0823094,-83.943505
+"Production","jcobbctv","Media City/Salford","subscribers","Production","BBC",FALSE,4,"United Kingdom","N/A","Media City Footbridge, Salford M50 2EQ, UK",53.4712301,-2.3001096
+"Production","ollie101","Brighton, UK","subscribers","Production","15gifts",FALSE,1,"United Kingdom","Brighton","Brighton, The City of Brighton and Hove, UK",50.82253,-0.137163
+"Production","tsadlerBBC","Greater Manchester","subscribers","Production","BBC",FALSE,1,"United Kingdom","N/A","Greater Manchester, UK",53.4575955,-2.1578377
+"Production","chussenot","Paris","subscribers","Production","",FALSE,5,"France","Paris","Paris, France",48.856614,2.3522219
+"Production","druellan","Argentina","subscribers","Production","Sfida Studios",FALSE,1,"Argentina","N/A","Argentina",-38.416097,-63.616672
+"Production","siekermantechnology","Amsterdam, Netherlands","subscribers","Production","Siekerman Technology",FALSE,1,"Netherlands","Amsterdam","Amsterdam, Netherlands",52.3702157,4.8951679
+"Production","watsond88","MediaCity UK","subscribers","Production","BBC",FALSE,2,"United Kingdom","Salford","The Greenhouse, MediaCityUK, 111 Broadway, Salford, Salford M50 2EQ, UK",53.4731054,-2.2971725
+"Production","derekdon","Central London","subscribers","Production","",FALSE,1,"United Kingdom","London","Central London, London WC2N, UK",51.5076017,-0.1278165
+"Production","EinLama","Germany","subscribers","Production","TVRL GmbH & Co. KG",FALSE,1,"Germany","N/A","Germany",51.165691,10.451526
+"Production","andy-wilson","United Kingdom","subscribers","Production","Ooyala, Inc.",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Production","bbcrobs","Salford","subscribers","Production","BBC",FALSE,3,"United Kingdom","Salford","Salford, UK",53.4875235,-2.2901264
+"Production","ryanwaudby","Marple, United Kingdom","subscribers","Production","BBC",FALSE,1,"United Kingdom","Marple","Marple, UK",53.397349,-2.061683
+"Production","Redface","South Korea","subscribers","Production",NA,FALSE,1,"South Korea","N/A","South Korea",35.907757,127.766922
+"Production","mori2k12bln","Berlin & Bavaria, Germany","subscribers","Production","Freelancer",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"Production","maltekosian","planet earth","subscribers","Production","hogventure",FALSE,1,"United Kingdom","Poynton","Planet Earth, Middlewood Road, Poynton, Stockport, Cheshire SK12 1TX, UK",53.3570177,-2.0853567
+"Production","jeversen","Kapelle","subscribers","Production","DELTA / ZeelandNet / Evidens ICT ",FALSE,1,"Netherlands","Kapelle","4421 Kapelle, Netherlands",51.4847546,3.9596313
+"Production","subsidel","Manchester, UK","subscribers","Production","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","slalx","北京","subscribers","Production","淘宝",FALSE,2,"China","Beijing","Beijing Railway Station, Bei Jing Zhan Dong Jie, Dongcheng Qu, Beijing Shi, China, 100010",39.902451,116.427301
+"Production","johnbeech","Manchester, England","subscribers","Production","BBC",FALSE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","lukejpreston","Manchester","subscribers","Production","BBC",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","doughgle","Singapore","subscribers","Production","",FALSE,1,"Singapore","N/A","Singapore",1.352083,103.819836
+"Production","tal-is-man","BBC Digital Television Platform","subscribers","Production","British Broadcasting Corporation",FALSE,0,NA,NA,NA,NA,NA
+"Production","fuzzyfelt","Manchester","subscribers","Production","",FALSE,6,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"Production","mcanthony","United States","subscribers","Production","defconcepts limited",FALSE,1,"United States","N/A","United States",37.09024,-95.712891
+"Production","yesley","Moscow, Russia","subscribers","Production","",FALSE,3,"Russia","Moscow","Moscow, Russia",55.755826,37.6173
+"Production","erdn","Madrid, Spain","subscribers","Production",NA,FALSE,3,"Spain","Madrid","Madrid, Madrid, Spain",40.4167754,-3.7037902
+"R&D","chrisn","London, UK","subscribers","R&D",NA,TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","lowpitch","Brighton, UK","subscribers","R&D","3 Feet High Ltd.",FALSE,1,"United Kingdom","Brighton","Brighton, The City of Brighton and Hove, UK",50.82253,-0.137163
+"R&D","cryptix","Hamburg, Germany","subscribers","R&D","",FALSE,1,"Germany","Hamburg","Hamburg, Germany",53.5510846,9.9936818
+"R&D","netconstructor","San Diego, CA","subscribers","R&D","NetConstructor.com",FALSE,1,"United States","San Diego","San Diego, CA, USA",32.715738,-117.1610838
+"R&D","seanohalpin","London, UK","subscribers","R&D","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","andrewn","London, UK","subscribers","R&D",NA,TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","moustaki","San Francisco Bay Area","subscribers","R&D","Netflix, CA",TRUE,2,"United States","N/A","San Francisco Bay Area, CA, USA",37.9994669,-122.174605
+"R&D","chrislo","London, UK","subscribers","R&D","FutureLearn",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","deedos","Rio de Janeiro - Brazil","subscribers","R&D","",FALSE,3,"Brazil","Rio de Janeiro","Rio de Janeiro - State of Rio de Janeiro, Brazil",-22.9068467,-43.1728965
+"R&D","pkeuter","Almere, Nederland","subscribers","R&D","",FALSE,1,"Netherlands","Almere","Almere, Netherlands",52.3507849,5.2647016
+"R&D","njh","London, UK","subscribers","R&D","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","olivierthereaux","London, UK","subscribers","R&D",NA,TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","sparkslabs","Manchester, UK","subscribers","R&D","na",TRUE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"R&D","matt-hammond-bbc","London, United Kingdom","subscribers","R&D","British Broadcasting Corporation",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","chrisbaume","London, UK","subscribers","R&D","BBC Research and Development",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","chrispike-bbc","United Kingdom","subscribers","R&D","BBC Research & Development",TRUE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"R&D","peiniau","Paris, France","subscribers","R&D","Port-Parallèle",FALSE,2,"France","Paris","Paris, France",48.856614,2.3522219
+"R&D","JamesHarrison","Oxfordshire, UK","subscribers","R&D","BBC Research and Development",TRUE,1,"United Kingdom","N/A","Oxfordshire, UK",51.7612056,-1.2464674
+"R&D","cisnky","London, UK","subscribers","R&D","BBC Research and Development IRFS",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","gareth","Guildford, UK","subscribers","R&D","BBC R&D",FALSE,1,"United Kingdom","Guildford","Guildford, Guildford, Surrey, UK",51.23622,-0.570409
+"R&D","AlexCaranha","Rio de Janeiro","subscribers","R&D","Vinci Partners",FALSE,2,"Brazil","Rio de Janeiro","Rio de Janeiro - State of Rio de Janeiro, Brazil",-22.9068467,-43.1728965
+"R&D","mcanthony","United States","subscribers","R&D","defconcepts limited",FALSE,1,"United States","N/A","United States",37.09024,-95.712891
+"R&D","jamesbaBBC","Manchester, UK","subscribers","R&D","BBC R&D",TRUE,1,"United Kingdom","Manchester","Manchester, UK",53.4807593,-2.2426305
+"R&D","oncletom","London, United Kingdom","subscribers","R&D","BBC R&D",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","rosswilson","MediaCity UK, Salford","subscribers","R&D","BBC",TRUE,4,"United Kingdom","Salford","Unit 3 Central Park, Holyrood Nursery Media City, Ohio Avenue, Salford, Lancashire M50 2GT, UK",53.475625,-2.291539
+"R&D","rcrowder","London, UK","subscribers","R&D","Current contract seeking",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","StevenLOL","Singapore","subscribers","R&D","Steven",FALSE,1,"Singapore","N/A","Singapore",1.352083,103.819836
+"R&D","ShutUpLiPeng","East China University Of Science And Technology Shanghai, China Meilong Road 130","subscribers","R&D","",FALSE,1,"China","Shanghai","East China University of Science and Technology （South Gate）, 130 Mei Long Lu, Xuhui Qu, China, 200237",31.1408757,121.4251069
+"R&D","matth","United Kingdom","subscribers","R&D","BBC",TRUE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"R&D","echo66","Somewhere over the rainbow","subscribers","R&D","",FALSE,1,"United States","Zelienople","Somewhere Over the Rainbow Llc, 600 West Beaver Street, Zelienople, PA 16063, USA",40.7844774,-80.1486417
+"R&D","roozgar","iran","subscribers","R&D",NA,FALSE,1,"Iran","N/A","Iran",32.427908,53.688046
+"R&D","landeiro","Lisbon","subscribers","R&D","RTP - Portuguese Public TV/Radio Broadcaster",FALSE,1,"Portugal","Lisbon","Lisbon, Portugal",38.7222524,-9.1393366
+"R&D","luisrudge","Brazil","subscribers","R&D","Way2 Techonolgy",FALSE,1,"Brazil","N/A","Brazil",-14.235004,-51.92528
+"R&D","faroit","Nuremberg, Germany","subscribers","R&D","",FALSE,1,"Germany","Nuremberg","Nuremberg, Germany",49.45203,11.07675
+"R&D","vjousse","Le Mans","subscribers","R&D","",FALSE,1,"France","Le Mans","Le Mans, France",48.00611,0.199556
+"R&D","markitics","Ireland","subscribers","R&D",NA,FALSE,1,"Ireland","N/A","Ireland",53.41291,-8.24389
+"R&D","andrewmfraser","Edinburgh","subscribers","R&D","Fraser Coyle",FALSE,1,"United Kingdom","Edinburgh","Edinburgh, City of Edinburgh, UK",55.953252,-3.188267
+"R&D","z0mbix","London, UK","subscribers","R&D","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","jmcewan","a little island in the sea","subscribers","R&D","",FALSE,4,"Ireland","Machain","Sea View, Ravensdale Road, Machain, Co. Cork, Ireland",51.8933043,-8.3964952
+"R&D","sckott","Portland, OR","subscribers","R&D","rOpenSci",FALSE,1,"United States","Portland","Portland, OR, USA",45.5230622,-122.6764816
+"R&D","zenogantner","Berlin, Germany","subscribers","R&D","Nokia (HERE)",FALSE,1,"Germany","Berlin","Berlin, Germany",52.5200066,13.404954
+"R&D","rtroncy","Sophia Antipolis","subscribers","R&D","EURECOM",FALSE,1,"France","N/A","Sophia Antipolis, France",43.6163539,7.0552218
+"R&D","pixelblend","London, UK","subscribers","R&D","",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","jcoyne","Minneapolis, MN","subscribers","R&D","Data Curation Experts",FALSE,1,"United States","Minneapolis","Minneapolis, MN, USA",44.977753,-93.2650108
+"R&D","mikel-egana-aranguren","Bilbo","subscribers","R&D","Eurohelp Consulting",FALSE,1,"Spain","Bilbao","Bilbao, Biscay, Spain",43.2630126,-2.9349852
+"R&D","mlespiau","Buenos Aires","subscribers","R&D","Avature",FALSE,1,"Argentina","Buenos Aires","Buenos Aires, Autonomous City of Buenos Aires, Argentina",-34.6036844,-58.3815591
+"R&D","gearmonkey","London, UK","subscribers","R&D","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","Nickology","Paris, France","subscribers","R&D","Appsfire",FALSE,2,"France","Paris","Paris, France",48.856614,2.3522219
+"R&D","MarcAntoine-Arnaud","Paris","subscribers","R&D","Arkena",FALSE,5,"France","Paris","Paris, France",48.856614,2.3522219
+"R&D","ghukill","Detroit, MI","subscribers","R&D","",FALSE,1,"United States","Detroit","Detroit, MI, USA",42.331427,-83.0457538
+"R&D","satazor","Porto, Portugal","subscribers","R&D","",FALSE,1,"Portugal","Porto","Porto, Portugal",41.1579438,-8.6291053
+"R&D","modernfidelity","London, UK","subscribers","R&D","Modernfidelity Studios",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","Krazylee","Beijing, China","subscribers","R&D","Douban Inc.",FALSE,1,"China","Beijing","Beijing, Beijing, China",39.904211,116.407395
+"R&D","bbarker","Ithaca, NY","subscribers","R&D","Cornell University",FALSE,1,"United States","Ithaca","Ithaca, NY, USA",42.4439614,-76.5018807
+"R&D","ajturner","Washington, DC","subscribers","R&D","Esri & GeoCommons",FALSE,1,"United States","Washington","Washington, DC, USA",38.9071923,-77.0368707
+"R&D","magedmakled","Minneapolis, MN","subscribers","R&D","",FALSE,1,"United States","Minneapolis","Minneapolis, MN, USA",44.977753,-93.2650108
+"R&D","rockt","London, UK","subscribers","R&D","University College London",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","cif2cif","Madrid","subscribers","R&D","Universidad Politécnica de Madrid",FALSE,1,"Spain","Madrid","Madrid, Madrid, Spain",40.4167754,-3.7037902
+"R&D","sandroacoelho","Brazil","subscribers","R&D",NA,FALSE,1,"Brazil","N/A","Brazil",-14.235004,-51.92528
+"R&D","radcom","England","subscribers","R&D",NA,FALSE,1,"United Kingdom","N/A","England, UK",52.3555177,-1.1743197
+"R&D","maziey93","Nigeria","subscribers","R&D","",FALSE,1,"Nigeria","N/A","Nigeria",9.081999,8.675277
+"R&D","rahul0","San Jose","subscribers","R&D","",FALSE,3,"United States","San Jose","San Jose, CA, USA",37.3382082,-121.8863286
+"R&D","ddiakopoulos","San Jose, CA","subscribers","R&D","Intel Perceptual Computing",FALSE,1,"United States","San Jose","San Jose, CA, USA",37.3382082,-121.8863286
+"R&D","msmithstubbs","London, UK","subscribers","R&D",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"R&D","chrisfinch","London, UK","subscribers","R&D","Guardian News & Media, Overninethousand",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","Melinka","London, UK","subscribers","Mixed","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","nevali","Glasgow, Scotland","subscribers","Mixed","BBC Archive Development",TRUE,1,"United Kingdom","Glasgow","Glasgow, Glasgow City, UK",55.864237,-4.251806
+"Mixed","Mamady","Las Vegas, USA","subscribers","Mixed","Modern Homes of Nevada",FALSE,3,"United States","Las Vegas","Las Vegas, NV, USA",36.1699412,-115.1398296
+"Mixed","jak","UK","subscribers","Mixed","MOO",FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Mixed","middric","Buckinghamshire","subscribers","Mixed","Witchert",FALSE,1,"United Kingdom","N/A","Buckinghamshire, UK",51.8072204,-0.8127664
+"Mixed","mrwillihog","London, UK","subscribers","Mixed","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","johnsoncheng","San Francisco","subscribers","Mixed","",FALSE,1,"United States","San Francisco","San Francisco, CA, USA",37.7749295,-122.4194155
+"Mixed","joshrp","London, UK","subscribers","Mixed","JustPark",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","charlier","UK","subscribers","Mixed",NA,FALSE,1,"United Kingdom","N/A","United Kingdom",55.378051,-3.435973
+"Mixed","craigtaub","London, UK","subscribers","Mixed",NA,FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","kopalk","London, UK","subscribers","Mixed","British Broadcasting Corporation",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","dariuszwiktorek","London, UK","subscribers","Mixed","",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","AnkushBBC","London, UK","subscribers","Mixed","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","alboley","London, UK","subscribers","Mixed","BBC",FALSE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","miguelgonz","London, UK","subscribers","Mixed","BBC",TRUE,1,"United Kingdom","London","London, UK",51.5073509,-0.1277583
+"Mixed","doublefx","Paris","subscribers","Mixed",NA,FALSE,5,"France","Paris","Paris, France",48.856614,2.3522219
